@@ -1,23 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
+import Header from './Components/Header/Header.jsx';
+import Footer from './Components/Footer/Footer.jsx';
+import Home from './Pages/Home/Home.jsx';
+import Contact from './Pages/Contact/Contact.jsx';
+import About from './Pages/About/About.jsx';
+import FAQ from './Pages/FAQ/FAQ.jsx';
+import Privacy from './Pages/Privacy/Privacy.jsx';
+import Shop from './Pages/Shop/Shop.jsx';
+import ProductDetails from './Pages/ProductDetails/ProductDetails.jsx';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Router>
+        <Header />
+        <Routes>
+          <Route path='/' element={<Home />} />
+          <Route path='/About' element={<About />} />
+          <Route path='/Shop' element={<Shop />} />
+          <Route path="/product/:slug" element={<ProductDetails />} />
+          <Route path='/FAQ' element={<FAQ />} />
+          <Route path='/Privacy' element={<Privacy />} />
+          <Route path='/Contact' element={<Contact />} />
+        </Routes>
+        <Footer />
+      </Router>
     </div>
   );
 }

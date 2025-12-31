@@ -1,0 +1,42 @@
+.product-card {
+  text-decoration: none;
+  color: #000;
+
+  &__image {
+    position: relative;
+    background: #f3f4f6;
+    border-radius: 12px;
+    overflow: hidden;
+
+    img {
+      width: 100%;
+      display: block;
+      transition: transform 0.3s ease;
+    }
+  }
+
+  &:hover img {
+    transform: scale(1.05);
+  }
+
+  &__badge {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    background: #fff;
+    padding: 6px 12px;
+    font-size: 13px;
+    border-radius: 20px;
+    font-weight: 600;
+  }
+
+  &__title {
+    font-size: 16px;
+    margin: 12px 0 6px;
+  }
+
+  &__price {
+    font-weight: 600;
+    color: #1e6bff;
+  }
+}

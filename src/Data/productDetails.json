@@ -1,0 +1,141 @@
+[
+    {
+        "id": "breitling-avenger-a1733110-bc31",
+        "slug": "breitling-avenger-46mm-a1733110-bc31-mens-silver-tone",
+        "title": "Breitling Avenger 46mm A1733110.BC31 Men’s Silver-tone",
+        "brand": "Breitling",
+        "collection": "Avenger",
+        "priceRange": {
+            "min": 199,
+            "max": 1299,
+            "currency": "USD"
+        },
+        "thumbnail": "https://i.postimg.cc/05KpHnsy/B-K-A1733110-BC31-1.webp",
+        "images": [
+            "https://i.postimg.cc/05KpHnsy/B-K-A1733110-BC31-1.webp",
+            "https://i.postimg.cc/rmtxXMKy/B-K-A1733110-BC31-3-150x150.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 199
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 699
+            },
+            {
+                "id": "clone",
+                "label": "AAAAA Clone",
+                "price": 1299
+            }
+        ],
+        "specifications": {
+            "caseSize": "46mm",
+            "caseMaterial": "316L Stainless Steel",
+            "crystal": "Sapphire Crystal",
+            "bandMaterial": "Leather",
+            "waterResistance": "30 meters"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Breitling Avenger is built for durability, precision and bold wrist presence."
+            },
+            {
+                "title": "Movement",
+                "content": "Available in Quartz, Automatic and Swiss Automatic movements."
+            }
+        ],
+        "comparison": {
+            "Price": [
+                "$199",
+                "$699",
+                "$1299",
+                "$2495–4650"
+            ],
+            "Grade": [
+                "A Replica",
+                "AAA Replica",
+                "AAAAA Clone",
+                "Genuine Breitling"
+            ]
+        },
+        
+        "comparison": {
+            "columns": [
+                "Genuine Breitling",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$2,495–4,650",
+                        "$1,299",
+                        "$699",
+                        "$199"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Breitling",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "46mm",
+                        "46mm",
+                        "46mm",
+                        "46mm"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    }
+]

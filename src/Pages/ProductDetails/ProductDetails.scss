@@ -1,0 +1,125 @@
+.product {
+  padding: 40px;
+
+  &__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+  }
+
+  &__gallery img {
+    width: 100%;
+    border-radius: 8px;
+  }
+
+  &__thumbs {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+
+    img {
+      width: 80px;
+      cursor: pointer;
+      opacity: 0.7;
+
+      &.active {
+        opacity: 1;
+        border: 2px solid #000;
+      }
+    }
+  }
+
+  &__price {
+    font-size: 22px;
+    font-weight: 600;
+    margin: 10px 0;
+  }
+
+  select {
+    width: 100%;
+    padding: 10px;
+    margin: 12px 0;
+  }
+
+  &__qty {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+
+    button {
+      width: 36px;
+      height: 36px;
+    }
+  }
+
+  &__cart {
+    margin-top: 20px;
+    padding: 12px;
+    width: 100%;
+    background: #000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+
+    &:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+  }
+
+  &__description {
+    margin-top: 60px;
+  }
+
+  &__specs {
+    margin-top: 60px;
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+
+      td {
+        padding: 12px;
+        border-bottom: 1px solid #ddd;
+      }
+
+      td:first-child {
+        font-weight: 600;
+        width: 30%;
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .product__container {
+    grid-template-columns: 1fr;
+  }
+}
+
+.product__comparison {
+  margin-top: 60px;
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th,
+  td {
+    padding: 14px;
+    border: 1px solid #e1e1e1;
+    text-align: left;
+    vertical-align: top;
+  }
+
+  th {
+    font-weight: 600;
+    background: #fafafa;
+  }
+
+  td.label {
+    font-weight: 600;
+    white-space: nowrap;
+  }
+}
