@@ -1,5 +1,4 @@
 import express from "express";
-import fetch from "node-fetch";
 import cors from "cors";
 import dotenv from "dotenv";
 
@@ -10,7 +9,8 @@ app.use(cors());
 app.use(express.json());
 
 app.post("/create-invoice", async (req, res) => {
-  const { amount, description } = req.body;
+  const amount = Number(req.body.amount);
+  const description = req.body.description || "Watch purchase";
 
   try {
     const response = await fetch("https://api.nowpayments.io/v1/invoice", {
@@ -22,20 +22,23 @@ app.post("/create-invoice", async (req, res) => {
       body: JSON.stringify({
         price_amount: amount,
         price_currency: "usd",
-        order_description: description || "Watch purchase",
-        success_url: "http://localhost:5173/cart",
-        cancel_url: "http://localhost:5173/cart"
+        order_description: description,
+        success_url: "https://watchexpressions.com/cart",
+        cancel_url: "https://watchexpressions.com/cart"
       })
     });
 
     const data = await response.json();
 
     if (!data.invoice_url) {
+      console.error("NOWPayments error:", data);
       return res.status(400).json(data);
     }
 
     res.json({ invoice_url: data.invoice_url });
+
   } catch (err) {
+    console.error(err);
     res.status(500).json({ error: "Invoice creation failed" });
   }
 });
@@ -43,3 +46,5 @@ app.post("/create-invoice", async (req, res) => {
 app.listen(4000, () =>
   console.log("Backend running on http://localhost:4000")
 );
+
+
