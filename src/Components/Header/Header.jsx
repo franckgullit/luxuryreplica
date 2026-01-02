@@ -6,6 +6,27 @@ export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
   const menuRef = useRef(null);
   const { pathname } = useLocation();
+  
+  const [cartCount, setCartCount] = useState(0);
+
+useEffect(() => {
+  const updateCartCount = () => {
+    const cart = JSON.parse(localStorage.getItem("cart")) || [];
+    const total = cart.reduce((sum, item) => sum + item.quantity, 0);
+    setCartCount(total);
+  };
+
+  updateCartCount();
+
+  window.addEventListener("storage", updateCartCount);
+  window.addEventListener("cartUpdated", updateCartCount);
+
+  return () => {
+    window.removeEventListener("storage", updateCartCount);
+    window.removeEventListener("cartUpdated", updateCartCount);
+  };
+}, []);
+
 
   // Close menu on route change
   useEffect(() => {
@@ -28,7 +49,7 @@ export default function Header() {
     <header className="header" ref={menuRef}>
       {/* Top Bar */}
       <div className="header__top">
-        <span>24/7 Customer service · watchexpressions2000@gmail.com</span>
+        <span>24/7 Customer service · sales@watchexpressions.com</span>
       </div>
 
       {/* Main Header */}
@@ -63,10 +84,10 @@ export default function Header() {
             <span className="header__search-icon">🔍</span>
           </div>
 
-          <div className="header__cart">
+          <NavLink to="/cart" className="header__cart">
             🛒
-            <span className="snipcart-items-count"></span>
-          </div>
+            <span className="cart-count">{cartCount}</span>
+          </NavLink>
 
 
           {/* Hamburger */}

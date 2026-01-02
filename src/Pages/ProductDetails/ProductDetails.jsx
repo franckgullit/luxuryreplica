@@ -1,6 +1,6 @@
 import { useParams } from "react-router-dom";
-import products from "../../Data/productDetails.json";
 import { useState } from "react";
+import products from "../../Data/productDetails.json";
 import "./ProductDetails.scss";
 
 function ProductDetails() {
@@ -17,26 +17,66 @@ function ProductDetails() {
     return <p style={{ padding: "40px" }}>Product not found.</p>;
   }
 
-  const selectedPrice =
-    product.variants.find(v => v.id === selectedVariant)?.price ||
-    product.priceRange.min;
+  const handleAddToCart = () => {
+    if (!selectedVariant) {
+      alert("Please select a movement option");
+      return;
+    }
+
+    const variant = product.variants.find(
+      v => v.id === selectedVariant
+    );
+
+    const cartItem = {
+      productId: product.id,
+      title: product.title,
+      variantId: variant.id,
+      variantLabel: variant.label,
+      price: variant.price,
+      quantity,
+      image: product.thumbnail
+    };
+
+    const existingCart =
+      JSON.parse(localStorage.getItem("cart")) || [];
+
+    const itemIndex = existingCart.findIndex(
+      item =>
+        item.productId === cartItem.productId &&
+        item.variantId === cartItem.variantId
+    );
+
+    if (itemIndex !== -1) {
+      existingCart[itemIndex].quantity += quantity;
+    } else {
+      existingCart.push(cartItem);
+    }
+
+    localStorage.setItem("cart", JSON.stringify(existingCart));
+    window.dispatchEvent(new Event("cartUpdated"));
+
+    alert("Added to cart ✔");
+  };
 
   return (
     <section className="product">
       <div className="product__container">
-
         {/* Gallery */}
         <div className="product__gallery">
-          <img src={activeImage} alt={product.title} className="product__main-image" />
+          <img
+            src={activeImage}
+            alt={product.title}
+            className="product__main-image"
+          />
 
           <div className="product__thumbs">
             {product.images.map((img, i) => (
               <img
                 key={i}
                 src={img}
-                onClick={() => setActiveImage(img)}
-                className={img === activeImage ? "active" : ""}
                 alt=""
+                className={img === activeImage ? "active" : ""}
+                onClick={() => setActiveImage(img)}
               />
             ))}
           </div>
@@ -65,28 +105,19 @@ function ProductDetails() {
 
           {/* Quantity */}
           <div className="product__qty">
-            <button onClick={() => setQuantity(q => Math.max(1, q - 1))}>−</button>
+            <button onClick={() => setQuantity(q => Math.max(1, q - 1))}>
+              −
+            </button>
             <span>{quantity}</span>
             <button onClick={() => setQuantity(q => q + 1)}>+</button>
           </div>
 
-          {/* Snipcart Button */}
+          {/* Add to Cart */}
           <button
-            className="product__cart snipcart-add-item"
-            disabled={!selectedVariant}
-            data-item-id={product.id}
-            data-item-name={product.title}
-            data-item-price={selectedPrice}
-            data-item-url={`/product/${product.slug}`}
-            data-item-image={product.thumbnail}
-            data-item-description={product.description?.[0]?.content}
-            data-item-quantity={quantity}
-            data-item-custom1-name="Movement"
-            data-item-custom1-value={
-              product.variants.find(v => v.id === selectedVariant)?.label
-            }
+            className="product__cart"
+            onClick={handleAddToCart}
           >
-            Add to cart
+            Add to Cart
           </button>
         </div>
       </div>
@@ -101,32 +132,31 @@ function ProductDetails() {
         ))}
       </div>
 
-      {/* Comparison Table */}
-{product.comparison && (
-  <div className="product__comparison">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          {product.comparison.columns.map(col => (
-            <th key={col}>{col}</th>
-          ))}
-        </tr>
-      </thead>
-      <tbody>
-        {product.comparison.rows.map(row => (
-          <tr key={row.label}>
-            <td className="label">{row.label}</td>
-            {row.values.map((val, i) => (
-              <td key={i}>{val}</td>
-            ))}
-          </tr>
-        ))}
-      </tbody>
-    </table>
-  </div>
-)}
-
+      {/* Comparison */}
+      {product.comparison && (
+        <div className="product__comparison">
+          <table>
+            <thead>
+              <tr>
+                <th></th>
+                {product.comparison.columns.map(col => (
+                  <th key={col}>{col}</th>
+                ))}
+              </tr>
+            </thead>
+            <tbody>
+              {product.comparison.rows.map(row => (
+                <tr key={row.label}>
+                  <td className="label">{row.label}</td>
+                  {row.values.map((val, i) => (
+                    <td key={i}>{val}</td>
+                  ))}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
     </section>
   );
 }

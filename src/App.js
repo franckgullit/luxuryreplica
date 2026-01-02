@@ -10,6 +10,7 @@ import FAQ from './Pages/FAQ/FAQ.jsx';
 import Privacy from './Pages/Privacy/Privacy.jsx';
 import Shop from './Pages/Shop/Shop.jsx';
 import ProductDetails from './Pages/ProductDetails/ProductDetails.jsx';
+import Cart from "./Pages/Cart/Cart.jsx";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
           <Route path='/About' element={<About />} />
           <Route path='/Shop' element={<Shop />} />
           <Route path="/product/:slug" element={<ProductDetails />} />
+          <Route path="/cart" element={<Cart />} />
           <Route path='/FAQ' element={<FAQ />} />
           <Route path='/Privacy' element={<Privacy />} />
           <Route path='/Contact' element={<Contact />} />

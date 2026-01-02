@@ -35,8 +35,8 @@ function Contact() {
         <div className="contact__wrapper">
           <p className="contact__intro">
             If you have any questions, please email customer service at{" "}
-            <a href="mailto:watchexpressions2000@gmail.com">
-              watchexpressions2000@gmail.com
+            <a href="mailto:sales@watchexpressions.com">
+              sales@watchexpressions.com
             </a>{" "}
             or fill out the form below to contact us.
           </p>

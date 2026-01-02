@@ -61,7 +61,7 @@ export default function Privacy() {
         <h2>Contact Us</h2>
         <p>
           If you have any questions about this Privacy Policy or how your information is handled,
-          please contact us at <strong>watchexpressions2000@gmail.com</strong>.
+          please contact us at <strong>sales@watchexpressions.com</strong>.
         </p>
       </section>
     </main>
