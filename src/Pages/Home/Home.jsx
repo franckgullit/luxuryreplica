@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./Home.scss";
 
 import watch1 from "../../Assets/rolex-datejust-replica-00001.webp";
@@ -33,9 +34,9 @@ function Home() {
             <img src={watch5} alt="New arrival watch" />
           </div>
 
-          <a href="/shop" className="home-new-arrivals__cta">
+          <Link to="/shop" className="home-new-arrivals__cta">
             NEW ARRIVALS
-          </a>
+          </Link>
         </div>
       </section>
 
