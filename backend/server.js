@@ -23,8 +23,8 @@ app.post("/create-invoice", async (req, res) => {
         price_amount: amount,
         price_currency: "usd",
         order_description: description,
-        success_url: "https://watchexpressions.com/cart",
-        cancel_url: "https://watchexpressions.com/cart"
+        success_url: "https://luxuryreplica.onrender.com/cart",
+        cancel_url: "https://luxuryreplica.onrender.com/cart"
       })
     });
 

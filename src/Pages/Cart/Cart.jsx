@@ -26,7 +26,7 @@ function Cart() {
         setLoading(true);
 
         try {
-            const response = await fetch("http://localhost:4000/create-invoice", {
+            const response = await fetch("https://luxuryreplica.onrender.com/create-invoice", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({
