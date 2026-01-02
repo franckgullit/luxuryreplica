@@ -26,16 +26,14 @@ function Cart() {
         setLoading(true);
 
         try {
-            const response = await fetch(
-                "http://localhost:4000/create-invoice",
-                {
-                    method: "POST",
-                    headers: {
-                        "Content-Type": "application/json"
-                    },
-                    body: JSON.stringify({ amount: total })
-                }
-            );
+            const response = await fetch("http://localhost:4000/create-invoice", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    amount: total,
+                    description: "Watch order"
+                })
+            });
 
             const data = await response.json();
 
@@ -44,7 +42,7 @@ function Cart() {
             } else {
                 alert("Unable to create payment invoice.");
             }
-        } catch (error) {
+        } catch {
             alert("Payment error. Please try again.");
         } finally {
             setLoading(false);
