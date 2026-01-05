@@ -12,7 +12,7 @@ const faqData = [
   },
   {
     q: "What payment methods do you accept?",
-    a: "We currently accept PayPal, Cryptocurrency, Bank Transfer, and Zelle. After placing your order, our team will provide clear instructions for completing your selected payment method."
+    a: "We currently accept PayPal, Cryptocurrency, Bank Transfer, and Zelle. Trouble placing your order, feel free to contact us and our team will provide clear instructions for completing your selected payment method."
   },
   {
     q: "How can I cancel or change my order?",

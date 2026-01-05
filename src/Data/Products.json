@@ -6,12 +6,189 @@
     "collection": "Avenger",
     "gender": "Men",
     "title": "Breitling Avenger 46mm A1733110.BC31 Men’s Silver-tone",
-    "badges": ["Sale", "Best Seller"],
+    "badges": [
+      "Sale",
+      "Best Seller"
+    ],
     "priceRange": {
       "min": 199,
       "max": 1299,
       "currency": "USD"
     },
     "thumbnail": "https://image2url.com/r2/default/images/1767182651983-a434df75-9024-433e-88ba-a9d8dc6dd457.webp"
+  },
+  {
+    "id": "rolex-datejust-126333-mop",
+    "slug": "rolex-datejust-126333-41mm-mother-of-pearl-dial",
+    "brand": "Rolex",
+    "collection": "Datejust",
+    "gender": "Men",
+    "title": "Rolex Datejust 41mm 126333 Mother of Pearl Dial",
+    "badges": [
+      "Sale",
+      "Best Seller"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 3099,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket2/images/1767643880343-ff1b8348-79eb-4a2b-b893-323742023249.webp"
+  },
+  {
+    "id": "rolex-datejust-126333-black",
+    "slug": "rolex-datejust-126333-41mm-black-dial",
+    "brand": "Rolex",
+    "collection": "Datejust",
+    "gender": "Men",
+    "title": "Rolex Datejust 41mm 126333 Men’s Silver-tone Black Dial",
+    "badges": [
+      "Sale",
+      "Best Seller"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 3099,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket2/images/1767645643005-c825c53b-d176-4df9-8217-6facb7bc10e7.webp"
+  },
+  {
+    "id": "breitling-avenger-v17311101b1w1",
+    "slug": "breitling-avenger-46mm-v17311101b1w1-black-tone",
+    "brand": "Breitling",
+    "collection": "Avenger",
+    "gender": "Men",
+    "title": "Breitling Avenger Men’s 46mm V17311101B1W1 Strap Black-tone",
+    "badges": [
+      "Sale",
+      "Best Seller"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 1299,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket2/images/1767648727931-7c290414-5880-4c7b-a985-c73eae7679ac.webp"
+  },
+  {
+    "id": "patek-philippe-complications-wsl026",
+    "slug": "patek-philippe-complications-40mm-wsl026",
+    "brand": "Patek Philippe",
+    "collection": "Complications",
+    "gender": "Men",
+    "title": "Patek Philippe Complications 40mm ComplicationsWSL026 Men’s Quartz Leather Strap",
+    "badges": [
+      "Sale",
+      "Best Seller"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 1199,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket1/images/1767649320795-0df3a23e-fb92-4aa2-8ecc-003a5312de83.webp"
+  },
+  {
+    "id": "panerai-luminor-pam01036",
+    "slug": "panerai-luminor-44mm-pam01036-mens-black-tone",
+    "brand": "Panerai",
+    "collection": "Luminor",
+    "gender": "Men",
+    "title": "Panerai Luminor 44mm PAM01036 Men’s Automatic Black-tone",
+    "badges": [
+      "Best Seller"
+    ],
+    "priceRange": {
+      "min": 299,
+      "max": 1299,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket2/images/1767651639098-bf62e585-6674-4613-9155-86d267ccaafc.webp"
+  },
+  {
+    "id": "hublot-big-bang-665-oe-2080-rw-1204",
+    "slug": "hublot-big-bang-40mm-665-oe-2080-rw-1204-unisex-white-dial",
+    "brand": "Hublot",
+    "collection": "Big Bang",
+    "gender": "Unisex",
+    "title": "Hublot Big Bang 40mm 665.OE.2080.RW.1204 Unisex White Dial",
+    "badges": [
+      "Best Seller"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 899,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket1/images/1767652172045-66abb663-a6e9-4f94-aeb6-72a6b1c8a32b.webp"
+  },
+  {
+    "id": "tag-heuer-autavia-wbe5114-001",
+    "slug": "tag-heuer-autavia-wbe5114-001-43mm-men-silver-tone",
+    "brand": "Tag Heuer",
+    "collection": "Autavia",
+    "gender": "Men",
+    "title": "Tag Heuer Autavia WBE5114-001 43mm Men Silver-tone",
+    "badges": [
+      "Popular"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 899,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket2/images/1767652669247-98a71b70-c4b5-43e6-a1bb-26057e324346.webp"
+  },
+  {
+    "id": "richard-mille-rm023",
+    "slug": "richard-mille-rm023-men-automatic",
+    "brand": "Richard Mille",
+    "collection": "RM 023",
+    "gender": "Men",
+    "title": "Richard Mille RM023 Around 50×40mm Men Automatic",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 799,
+      "max": 1299,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket2/images/1767653044469-a9c9f334-9837-4180-9ec1-67f2ae9b6123.webp"
+  },
+  {
+    "id": "rolex-daytona-116518csr",
+    "slug": "rolex-daytona-116518csr-40mm-men-automatic",
+    "brand": "Rolex",
+    "collection": "Daytona",
+    "gender": "Men",
+    "title": "Rolex Daytona 40mm 116518CSR Men’s Champagne Dial Automatic",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 3299,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket2/images/1767653399399-1c33fc22-756b-49fa-812c-051f262e67b4.webp"
+  },
+  {
+    "id": "richard-mille-rm011-023",
+    "slug": "richard-mille-rm011-023-45mm-men-silver-tone",
+    "brand": "Richard Mille",
+    "collection": "RM011",
+    "gender": "Men",
+    "title": "Richard Mille RM011 Men Around 45mm RM011-023 Silver-tone",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 499,
+      "max": 1299,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket1/images/1767653747458-e5016cf7-1b87-4e67-adc7-e6351d86f66f.webp"
   }
 ]
