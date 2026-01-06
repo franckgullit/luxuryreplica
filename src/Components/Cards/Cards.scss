@@ -2,11 +2,18 @@
   text-decoration: none;
   color: #000;
 
+   /* 🔑 Make card stretch evenly in grid */
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+
   &__image {
     position: relative;
     background: #f3f4f6;
     border-radius: 12px;
     overflow: hidden;
+     /* 🔑 Force same image size */
+    aspect-ratio: 1 / 1;
 
     img {
       width: 100%;

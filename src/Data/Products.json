@@ -190,5 +190,124 @@
       "currency": "USD"
     },
     "thumbnail": "https://image2url.com/r2/bucket1/images/1767653747458-e5016cf7-1b87-4e67-adc7-e6351d86f66f.webp"
+  },
+  {
+    "id": "audemars-piguet-royal-oak-26522ce",
+    "slug": "audemars-piguet-royal-oak-26522ce-41mm-men-bracelet",
+    "brand": "Audemars Piguet",
+    "collection": "Royal Oak",
+    "gender": "Men",
+    "title": "Audemars Piguet Royal Oak 41mm Men’s 26522CE.OO.1225CE.01 Bracelet",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 299,
+      "max": 1499,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket2/images/1767729211602-13f11958-52c0-4d6a-bd8e-999bb75d9277.webp"
+  },
+  {
+    "id": "rolex-daytona-116588tbr-0003",
+    "slug": "rolex-daytona-116588tbr-0003-40mm-men-rubber-band",
+    "brand": "Rolex",
+    "collection": "Daytona",
+    "gender": "Men",
+    "title": "Rolex Daytona 40mm 116588TBR-0003 Men’s Automatic Rubber Band",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 249,
+      "max": 2899,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket1/images/1767730450715-a9bbfaeb-afa0-4bd0-829c-bc6b358c4cff.webp"
+  },
+  {
+    "id": "richard-mille-rm67-02",
+    "slug": "richard-mille-rm67-02-40mm-men-transparent-dial-black",
+    "brand": "Richard Mille",
+    "collection": "RM67-02",
+    "gender": "Men",
+    "title": "Richard Mille RM 67-02 Men Around 40mm Transparent Dial Black",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 699,
+      "max": 9999,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket1/images/1767732294327-9305e065-9b11-4b42-9925-d1ce0d9408a9.webp"
+  },
+  {
+    "id": "patek-philippe-nautilus-5811-1460g-001",
+    "slug": "patek-philippe-nautilus-5811-1460g-001-40mm-men-silver-tone",
+    "brand": "Patek Philippe",
+    "collection": "Nautilus",
+    "gender": "Men",
+    "title": "Patek Philippe Nautilus 5811/1460G-001 Men’s 40mm Silver-tone",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 699,
+      "max": 9999,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket2/images/1767733535743-31d950d4-9d29-4183-b868-144abc230dd1.webp"
+  },
+  {
+    "id": "patek-philippe-nautilus-5811-1g-001",
+    "slug": "patek-philippe-nautilus-5811-1g-001-40mm-men-automatic",
+    "brand": "Patek Philippe",
+    "collection": "Nautilus",
+    "gender": "Men",
+    "title": "Patek Philippe Nautilus 40mm 5811/1G-001 Men’s Automatic",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 1399,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket1/images/1767734386878-45af75f1-a5e8-4ac1-b6e8-cf4cad2deeeb.webp"
+  },
+  {
+    "id": "richard-mille-rm037-black",
+    "slug": "richard-mille-rm037-black-men",
+    "brand": "Richard Mille",
+    "collection": "RM037",
+    "gender": "Men",
+    "title": "Richard Mille RM 037 Black",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 699,
+      "max": 1599,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket2/images/1767735865740-bafe0552-ab02-4c43-9d47-084a0af6667c.webp"
+  },
+  {
+    "id": "patek-philippe-aquanaut-5968a-002",
+    "slug": "patek-philippe-aquanaut-5968a-002-42mm-men",
+    "brand": "Patek Philippe",
+    "collection": "Aquanaut",
+    "gender": "Men",
+    "title": "Patek Philippe Aquanaut Men 5968A-002 42mm",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 219,
+      "max": 1299,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket1/images/1767736494675-d0da1381-b54c-40f1-8738-fab39d570a08.webp"
   }
 ]
