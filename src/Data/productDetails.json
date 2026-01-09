@@ -2679,5 +2679,541 @@
                 }
             ]
         }
+    },
+    {
+        "id": "patek-philippe-nautilus-7118-1200a-011",
+        "slug": "patek-philippe-nautilus-7118-1200a-011-32mm-women",
+        "title": "Patek Philippe Nautilus 7118/1200A-011 32mm Bracelet Quartz",
+        "brand": "Patek Philippe",
+        "collection": "Nautilus",
+        "priceRange": {
+            "min": 199,
+            "max": 899,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/bucket1/images/1767810799583-de33501a-cbd8-46aa-9395-4535029542f5.webp",
+        "images": [
+            "https://image2url.com/r2/bucket1/images/1767810799583-de33501a-cbd8-46aa-9395-4535029542f5.webp",
+            "https://image2url.com/r2/bucket2/images/1767810843781-1d06e5f3-8c7e-469a-b3e1-14fb433b5bb2.webp",
+            "https://image2url.com/r2/bucket2/images/1767810866037-2668ab36-8c43-4f12-8517-d72679f8443e.webp",
+            "https://image2url.com/r2/bucket2/images/1767810885360-100c1c4f-b1e6-4b59-9a7a-d4cae92600ae.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 199
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 599
+            },
+            {
+                "id": "clone",
+                "label": "AAAAA Clone",
+                "price": 899
+            }
+        ],
+        "specifications": {
+            "caseSize": "32mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Nautilus Embossed Dial",
+            "movement": "Quartz",
+            "engine": "High-precision quartz movement (by grade)",
+            "waterResistance": "Up to 300 meters (grade dependent)",
+            "gender": "Women",
+            "series": "Nautilus"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Patek Philippe Nautilus 7118/1200A-011 is an elegant 32mm luxury sports watch, combining the iconic Nautilus silhouette with a refined stainless steel bracelet design."
+            },
+            {
+                "title": "Movement",
+                "content": "Equipped with quartz movements across all grades, delivering reliable accuracy with higher-tier clones offering COSC-level performance."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Features a beautifully finished Nautilus dial, precision case edges, and premium crystal options depending on grade for a sophisticated wrist presence."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Patek Philippe",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$50,000–3,100,000",
+                        "$899",
+                        "$599",
+                        "$199"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Patek Philippe",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "32mm",
+                        "32mm",
+                        "32mm",
+                        "32mm"
+                    ]
+                },
+                {
+                    "label": "Logo & Markings",
+                    "values": [
+                        "Laser etchings",
+                        "Exact on entire watch",
+                        "90% Exact on entire watch",
+                        "70% Exact on entire watch"
+                    ]
+                },
+                {
+                    "label": "Dial",
+                    "values": [
+                        "Genuine Patek Philippe",
+                        "Exact detail and font",
+                        "90% exact detail and font",
+                        "70% Exact detail and font"
+                    ]
+                },
+                {
+                    "label": "Luminous Markers",
+                    "values": [
+                        "Patek Philippe Lumen",
+                        "SuperLuminova Swiss Lumen",
+                        "Swiss Lumen",
+                        "Normal Lumen"
+                    ]
+                },
+                {
+                    "label": "Waterproof",
+                    "values": [
+                        "100m on standard models",
+                        "Tested up to 300m",
+                        "Tested up to 30m",
+                        "Life waterproof"
+                    ]
+                },
+                {
+                    "label": "Life Expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 years",
+                        "1–2 years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "rolex-daytona-126508-green-dial",
+        "slug": "rolex-daytona-126508-40mm-men-green-dial",
+        "title": "Rolex Daytona 126508 Men’s 40mm Green Dial Gold-tone",
+        "brand": "Rolex",
+        "collection": "Daytona",
+        "priceRange": {
+            "min": 199,
+            "max": 3399,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/bucket2/images/1767811656011-cf32f4e8-688a-4d8b-af93-4aa24b71a081.webp",
+        "images": [
+            "https://image2url.com/r2/bucket2/images/1767811656011-cf32f4e8-688a-4d8b-af93-4aa24b71a081.webp",
+            "https://image2url.com/r2/bucket3/images/1767811702651-1e01ae17-9817-439d-a673-8995f426a747.webp",
+            "https://image2url.com/r2/bucket3/images/1767811718196-11d91e32-82bf-4d05-a8e2-1229b6c6d951.webp",
+            "https://image2url.com/r2/bucket3/images/1767811736973-f7ac51a5-13ae-45b5-b46c-d64d15a34c86.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 199
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 799
+            },
+            {
+                "id": "clone",
+                "label": "AAAAA Clone",
+                "price": 1399
+            }
+        ],
+        "specifications": {
+            "caseSize": "40mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Green Dial",
+            "movement": "Automatic",
+            "engine": "Rolex 4130 clone movement (by grade)",
+            "waterResistance": "Up to 100 meters (grade dependent)",
+            "gender": "Men",
+            "series": "Daytona"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Rolex Daytona 126508 features a striking green dial paired with a gold-tone case, delivering an iconic chronograph design with a bold luxury presence."
+            },
+            {
+                "title": "Movement",
+                "content": "Powered by automatic chronograph movements across all grades, with higher-tier clones offering enhanced accuracy and smoother operation."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Crafted with a fixed bezel, premium case finishing, and scratch-resistant crystal, faithfully capturing the legendary Daytona aesthetic."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Rolex",
+                "Top 1:1 Clone",
+                "1:1 Clone",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$11,500–350,000",
+                        "$3,399",
+                        "$2,399",
+                        "$1,399",
+                        "$799",
+                        "$199"
+                    ]
+                },
+                {
+                    "label": "Factory",
+                    "values": [
+                        "/",
+                        "Clean / Noob",
+                        "JF",
+                        "TW",
+                        "BT",
+                        "F"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Rolex",
+                        "Top 1:1 Clone",
+                        "1:1 Clone",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Movement",
+                    "values": [
+                        "Automatic",
+                        "Automatic",
+                        "Automatic",
+                        "Automatic",
+                        "Automatic",
+                        "Automatic"
+                    ]
+                },
+                {
+                    "label": "Engine",
+                    "values": [
+                        "Rolex Calibre 4130",
+                        "Genuine Swiss Clone 4130",
+                        "Clone 1:1 4130",
+                        "Swiss ETA 4130",
+                        "Swiss 7750",
+                        "Asian 2813"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-3/+5 sec per day COSC certified",
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Hairspring Accuracy",
+                    "values": [
+                        "0.3 microns",
+                        "0.4 microns",
+                        "0.5 microns",
+                        "0.8 microns",
+                        "/",
+                        "/"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel",
+                    "values": [
+                        "Stainless Steel",
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Bezel",
+                    "values": [
+                        "Fixed",
+                        "Fixed",
+                        "Fixed",
+                        "Fixed",
+                        "Fixed",
+                        "Fixed"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Scratch-resistant sapphire crystal",
+                        "Scratch-resistant sapphire crystal",
+                        "Scratch-resistant sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "audemars-piguet-royal-oak-155510r",
+        "slug": "audemars-piguet-royal-oak-155510r-42mm-men",
+        "title": "Audemars Piguet Royal Oak 155510R.ZZ.13560R.06 42mm Men’s Quartz",
+        "brand": "Audemars Piguet",
+        "collection": "Royal Oak",
+        "priceRange": {
+            "min": 199,
+            "max": 1299,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/bucket1/images/1767812515074-5069c058-fae9-4d08-b30a-5948f60437f5.webp",
+        "images": [
+            "https://image2url.com/r2/bucket1/images/1767812515074-5069c058-fae9-4d08-b30a-5948f60437f5.webp",
+            "https://image2url.com/r2/bucket1/images/1767812551129-3d7a4c0d-b1f4-465f-8f97-dbd30090fa3e.webp",
+            "https://image2url.com/r2/bucket2/images/1767812568263-d9ea9aac-9fe7-43e8-ad1a-d02ad90e9f51.webp",
+            "https://image2url.com/r2/bucket2/images/1767812585096-0769b33f-0b0f-4422-889b-6300429a7033.webp",
+            "https://image2url.com/r2/bucket2/images/1767812600831-79a83760-f916-4ef5-840b-ee1165fd6e10.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 199
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 699
+            },
+            {
+                "id": "clone",
+                "label": "AAAAA Clone",
+                "price": 1299
+            }
+        ],
+        "specifications": {
+            "caseSize": "42mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Royal Oak Signature Dial",
+            "movement": "Quartz",
+            "engine": "High-precision quartz movement (by grade)",
+            "waterResistance": "Up to 300 meters (grade dependent)",
+            "gender": "Men",
+            "series": "Royal Oak"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Audemars Piguet Royal Oak 155510R is a bold and refined luxury sports watch, showcasing the iconic Royal Oak design with a powerful wrist presence."
+            },
+            {
+                "title": "Movement",
+                "content": "Powered by reliable quartz movements across all grades, delivering consistent accuracy with higher-tier clones offering COSC-level performance."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Features the legendary Royal Oak case and dial design, precision finishing, and premium materials depending on grade."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Audemars Piguet",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$25,850–335,000",
+                        "$1,299",
+                        "$699",
+                        "$199"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Audemars Piguet",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "44mm",
+                        "44mm",
+                        "44mm",
+                        "44mm"
+                    ]
+                },
+                {
+                    "label": "Logo & Markings",
+                    "values": [
+                        "Laser etchings",
+                        "Exact on entire watch",
+                        "90% Exact on entire watch",
+                        "70% Exact on entire watch"
+                    ]
+                },
+                {
+                    "label": "Dial",
+                    "values": [
+                        "Genuine Audemars Piguet",
+                        "Exact detail and font",
+                        "90% exact detail and font",
+                        "70% Exact detail and font"
+                    ]
+                },
+                {
+                    "label": "Waterproof",
+                    "values": [
+                        "100m on standard models",
+                        "Tested up to 300m",
+                        "Tested up to 30m",
+                        "Life waterproof"
+                    ]
+                },
+                {
+                    "label": "Life Expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 years",
+                        "1–2 years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
     }
 ]

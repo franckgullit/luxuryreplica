@@ -309,5 +309,56 @@
       "currency": "USD"
     },
     "thumbnail": "https://image2url.com/r2/bucket1/images/1767736494675-d0da1381-b54c-40f1-8738-fab39d570a08.webp"
+  },
+  {
+    "id": "patek-philippe-nautilus-7118-1200a-011",
+    "slug": "patek-philippe-nautilus-7118-1200a-011-32mm-women",
+    "brand": "Patek Philippe",
+    "collection": "Nautilus",
+    "gender": "Women",
+    "title": "Patek Philippe Nautilus 7118/1200A-011 32mm Bracelet Quartz",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 899,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket1/images/1767810799583-de33501a-cbd8-46aa-9395-4535029542f5.webp"
+  },
+  {
+    "id": "rolex-daytona-126508-green-dial",
+    "slug": "rolex-daytona-126508-40mm-men-green-dial",
+    "brand": "Rolex",
+    "collection": "Daytona",
+    "gender": "Men",
+    "title": "Rolex Daytona 126508 Men’s 40mm Green Dial Gold-tone",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 3399,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket2/images/1767811656011-cf32f4e8-688a-4d8b-af93-4aa24b71a081.webp"
+  },
+  {
+    "id": "audemars-piguet-royal-oak-155510r",
+    "slug": "audemars-piguet-royal-oak-155510r-42mm-men",
+    "brand": "Audemars Piguet",
+    "collection": "Royal Oak",
+    "gender": "Men",
+    "title": "Audemars Piguet Royal Oak 155510R.ZZ.13560R.06 42mm Men’s Quartz",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 1299,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/bucket1/images/1767812515074-5069c058-fae9-4d08-b30a-5948f60437f5.webp"
   }
 ]
