@@ -360,5 +360,56 @@
       "currency": "USD"
     },
     "thumbnail": "https://image2url.com/r2/bucket1/images/1767812515074-5069c058-fae9-4d08-b30a-5948f60437f5.webp"
+  },
+  {
+    "id": "rolex-submariner-116610lv",
+    "slug": "rolex-submariner-116610lv-green-dial-men",
+    "brand": "Rolex",
+    "collection": "Submariner",
+    "gender": "Men",
+    "title": "Rolex Submariner Men’s 116610LV Green Dial Bracelet",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 139,
+      "max": 3099,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768344223445-d3b6bc81-6726-4747-b5c6-0e13cc3e16c9.webp"
+  },
+  {
+    "id": "cartier-panthere-wgpn0009",
+    "slug": "cartier-panthere-27mm-wgpn0009-ladies",
+    "brand": "Cartier",
+    "collection": "Panthere",
+    "gender": "Ladies",
+    "title": "Cartier Panthere 27mm WGPN0009 Ladies Bracelet Quartz",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 1299,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768344988940-fae657a0-6a49-4797-868c-a5a7f2af404c.webp"
+  },
+  {
+    "id": "audemars-piguet-royal-oak-concept-26589io",
+    "slug": "audemars-piguet-royal-oak-concept-26589io-men",
+    "brand": "Audemars Piguet",
+    "collection": "Royal Oak Concept",
+    "gender": "Men",
+    "title": "Audemars Piguet Royal Oak Concept 26589IO.OO.D030CA.01",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 699,
+      "max": 1299,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768345946554-c7f79ae1-72e7-4966-930b-f7590e2957ba.webp"
   }
 ]

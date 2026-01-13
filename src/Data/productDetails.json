@@ -3045,23 +3045,210 @@
         }
     },
     {
-        "id": "audemars-piguet-royal-oak-155510r",
-        "slug": "audemars-piguet-royal-oak-155510r-42mm-men",
-        "title": "Audemars Piguet Royal Oak 155510R.ZZ.13560R.06 42mm Men’s Quartz",
-        "brand": "Audemars Piguet",
-        "collection": "Royal Oak",
+        "id": "rolex-submariner-116610lv",
+        "slug": "rolex-submariner-116610lv-green-dial-men",
+        "title": "Rolex Submariner Men’s 116610LV Green Dial Bracelet",
+        "brand": "Rolex",
+        "collection": "Submariner",
+        "priceRange": {
+            "min": 139,
+            "max": 3099,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1768344223445-d3b6bc81-6726-4747-b5c6-0e13cc3e16c9.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1768344223445-d3b6bc81-6726-4747-b5c6-0e13cc3e16c9.webp",
+            "https://image2url.com/r2/default/images/1768344263721-33fe83b3-7328-4ab1-b694-b9c15041e980.webp",
+            "https://image2url.com/r2/default/images/1768344284385-a9aae9f5-82b3-4ef3-92d3-1cb53bfba1bd.webp",
+            "https://image2url.com/r2/default/images/1768344306460-285896d4-2110-4642-9866-12c3fa8c5408.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 139
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 499
+            },
+            {
+                "id": "clone",
+                "label": "AAAAA Clone",
+                "price": 1099
+            },
+            {
+                "id": "top",
+                "label": "Top 1:1 Clone",
+                "price": 3099
+            }
+        ],
+        "specifications": {
+            "caseSize": "40mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Unidirectional Rotating",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Green Dial",
+            "movement": "Automatic",
+            "engine": "Clone Rolex Calibre 3135 (by grade)",
+            "waterResistance": "Up to 300 meters (grade dependent)",
+            "gender": "Men",
+            "series": "Submariner"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Rolex Submariner 116610LV, famously known as the \"Hulk\", is an iconic professional dive watch featuring a bold green dial and matching ceramic bezel."
+            },
+            {
+                "title": "Movement",
+                "content": "Equipped with automatic movements across all grades, higher-tier clones utilize advanced Calibre 3135 replicas offering smooth operation and COSC-level accuracy."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Built with a robust Oyster case, unidirectional diving bezel, and premium bracelet finishing, closely replicating the authentic Rolex Submariner aesthetics."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Rolex",
+                "Top 1:1 Clone",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$10,000–250,000",
+                        "$3,099",
+                        "$1,099",
+                        "$499",
+                        "$139"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Rolex",
+                        "Top 1:1 Clone",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Movement",
+                    "values": [
+                        "Automatic",
+                        "Automatic",
+                        "Automatic",
+                        "Automatic",
+                        "Automatic"
+                    ]
+                },
+                {
+                    "label": "Engine",
+                    "values": [
+                        "Rolex Calibre 3135",
+                        "Clone Rolex 3135",
+                        "Super Clone 3135",
+                        "ETA-based Automatic",
+                        "Asian Automatic"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Bezel",
+                    "values": [
+                        "Unidirectional Rotating",
+                        "Unidirectional Rotating",
+                        "Unidirectional Rotating",
+                        "Fixed",
+                        "Fixed"
+                    ]
+                },
+                {
+                    "label": "Waterproof",
+                    "values": [
+                        "300m",
+                        "Tested up to 300m",
+                        "Tested up to 300m",
+                        "Tested up to 30m",
+                        "Life waterproof"
+                    ]
+                },
+                {
+                    "label": "Life Expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 years",
+                        "1–2 years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "5 Years",
+                        "Up to 5 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "cartier-panthere-wgpn0009",
+        "slug": "cartier-panthere-27mm-wgpn0009-ladies",
+        "title": "Cartier Panthere 27mm WGPN0009 Ladies Bracelet Quartz",
+        "brand": "Cartier",
+        "collection": "Panthere",
         "priceRange": {
             "min": 199,
             "max": 1299,
             "currency": "USD"
         },
-        "thumbnail": "https://image2url.com/r2/bucket1/images/1767812515074-5069c058-fae9-4d08-b30a-5948f60437f5.webp",
+        "thumbnail": "https://image2url.com/r2/default/images/1768344988940-fae657a0-6a49-4797-868c-a5a7f2af404c.webp",
         "images": [
-            "https://image2url.com/r2/bucket1/images/1767812515074-5069c058-fae9-4d08-b30a-5948f60437f5.webp",
-            "https://image2url.com/r2/bucket1/images/1767812551129-3d7a4c0d-b1f4-465f-8f97-dbd30090fa3e.webp",
-            "https://image2url.com/r2/bucket2/images/1767812568263-d9ea9aac-9fe7-43e8-ad1a-d02ad90e9f51.webp",
-            "https://image2url.com/r2/bucket2/images/1767812585096-0769b33f-0b0f-4422-889b-6300429a7033.webp",
-            "https://image2url.com/r2/bucket2/images/1767812600831-79a83760-f916-4ef5-840b-ee1165fd6e10.webp"
+            "https://image2url.com/r2/default/images/1768344988940-fae657a0-6a49-4797-868c-a5a7f2af404c.webp",
+            "https://image2url.com/r2/default/images/1768345030946-153d81b8-74c9-4054-a274-a23a8380c6d7.webp",
+            "https://image2url.com/r2/default/images/1768345050368-a28d6642-96a6-490c-a040-136488d25409.webp",
+            "https://image2url.com/r2/default/images/1768345075019-cb24a045-30af-4f8a-ad6d-8c2e3e9e72dc.webp"
         ],
         "variants": [
             {
@@ -3081,34 +3268,34 @@
             }
         ],
         "specifications": {
-            "caseSize": "42mm",
+            "caseSize": "27mm",
             "caseMaterial": "904L / 316L Stainless Steel (by grade)",
             "bezel": "Fixed",
             "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
-            "dialColor": "Royal Oak Signature Dial",
+            "dialColor": "Silver Dial",
             "movement": "Quartz",
-            "engine": "High-precision quartz movement (by grade)",
-            "waterResistance": "Up to 300 meters (grade dependent)",
-            "gender": "Men",
-            "series": "Royal Oak"
+            "engine": "Swiss Quartz (by grade)",
+            "waterResistance": "Up to 30 meters (grade dependent)",
+            "gender": "Ladies",
+            "series": "Panthere"
         },
         "description": [
             {
                 "title": "Overview",
-                "content": "The Audemars Piguet Royal Oak 155510R is a bold and refined luxury sports watch, showcasing the iconic Royal Oak design with a powerful wrist presence."
+                "content": "The Cartier Panthere WGPN0009 is a timeless ladies watch featuring a refined 27mm case, iconic bracelet design, and elegant Roman numeral dial."
             },
             {
                 "title": "Movement",
-                "content": "Powered by reliable quartz movements across all grades, delivering consistent accuracy with higher-tier clones offering COSC-level performance."
+                "content": "Powered by precise quartz movements across all grades, offering reliable timekeeping with minimal maintenance."
             },
             {
                 "title": "Design & Craftsmanship",
-                "content": "Features the legendary Royal Oak case and dial design, precision finishing, and premium materials depending on grade."
+                "content": "Showcasing Cartier’s signature square case, integrated bracelet, and polished finishing, closely mirroring the elegance of the original Panthere."
             }
         ],
         "comparison": {
             "columns": [
-                "Genuine Audemars Piguet",
+                "Genuine Cartier",
                 "AAAAA Clone",
                 "AAA Replica",
                 "A Replica"
@@ -3117,7 +3304,7 @@
                 {
                     "label": "Price",
                     "values": [
-                        "$25,850–335,000",
+                        "$4,695–26,750",
                         "$1,299",
                         "$699",
                         "$199"
@@ -3126,7 +3313,7 @@
                 {
                     "label": "Grade",
                     "values": [
-                        "Genuine Audemars Piguet",
+                        "Genuine Cartier",
                         "AAAAA Clone",
                         "AAA Replica",
                         "A Replica"
@@ -3160,36 +3347,27 @@
                     ]
                 },
                 {
-                    "label": "Case Size",
-                    "values": [
-                        "44mm",
-                        "44mm",
-                        "44mm",
-                        "44mm"
-                    ]
-                },
-                {
                     "label": "Logo & Markings",
                     "values": [
                         "Laser etchings",
                         "Exact on entire watch",
-                        "90% Exact on entire watch",
-                        "70% Exact on entire watch"
+                        "90% exact on entire watch",
+                        "70% exact on entire watch"
                     ]
                 },
                 {
                     "label": "Dial",
                     "values": [
-                        "Genuine Audemars Piguet",
+                        "Genuine Cartier",
                         "Exact detail and font",
                         "90% exact detail and font",
-                        "70% Exact detail and font"
+                        "70% exact detail and font"
                     ]
                 },
                 {
                     "label": "Waterproof",
                     "values": [
-                        "100m on standard models",
+                        "30m on standard models",
                         "Tested up to 300m",
                         "Tested up to 30m",
                         "Life waterproof"
@@ -3211,6 +3389,160 @@
                         "Up to 5 Years",
                         "Up to 3 Years",
                         "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "audemars-piguet-royal-oak-concept-26589io",
+        "slug": "audemars-piguet-royal-oak-concept-26589io-men",
+        "title": "Audemars Piguet Royal Oak Concept 26589IO.OO.D030CA.01",
+        "brand": "Audemars Piguet",
+        "collection": "Royal Oak Concept",
+        "priceRange": {
+            "min": 699,
+            "max": 1299,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1768345946554-c7f79ae1-72e7-4966-930b-f7590e2957ba.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1768345946554-c7f79ae1-72e7-4966-930b-f7590e2957ba.webp",
+            "https://image2url.com/r2/default/images/1768345987208-3dfd70fc-fe85-4a65-9817-7b8019763fe2.webp",
+            "https://image2url.com/r2/default/images/1768346005648-35ea5ce1-6b67-4a99-868d-fedd8a473be4.webp",
+            "https://image2url.com/r2/default/images/1768346025085-9f510599-3dbb-4bc7-8e31-29cb7b8c3fb9.webp"
+        ],
+        "variants": [
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 699
+            },
+            {
+                "id": "clone",
+                "label": "AAAAA Clone",
+                "price": 1299
+            }
+        ],
+        "specifications": {
+            "caseSize": "41mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal",
+            "dialColor": "Skeleton Dial",
+            "movement": "Automatic",
+            "engine": "Clone Audemars Piguet Calibre (by grade)",
+            "waterResistance": "Up to 300 meters (grade dependent)",
+            "gender": "Men",
+            "series": "Royal Oak"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Audemars Piguet Royal Oak Concept 26589IO showcases a bold avant-garde design with a skeletonized dial and aggressive case architecture."
+            },
+            {
+                "title": "Movement",
+                "content": "Higher grade versions feature advanced automatic clone movements delivering improved stability, durability, and COSC-level accuracy."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Precision case finishing, exposed mechanics, and sharp detailing closely mirror the authentic Royal Oak Concept aesthetic."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Audemars Piguet",
+                "AAAAA Clone",
+                "AAA Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$23,864–596,591",
+                        "$1,299",
+                        "$699"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Audemars Piguet",
+                        "AAAAA Clone",
+                        "AAA Replica"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "41mm",
+                        "41mm",
+                        "41mm"
+                    ]
+                },
+                {
+                    "label": "Logo & Markings",
+                    "values": [
+                        "Laser etchings",
+                        "Exact on entire watch",
+                        "90% Exact on entire watch"
+                    ]
+                },
+                {
+                    "label": "Dial",
+                    "values": [
+                        "Genuine Audemars Piguet",
+                        "Exact detail and font",
+                        "90% exact detail and font"
+                    ]
+                },
+                {
+                    "label": "Waterproof",
+                    "values": [
+                        "100m",
+                        "Tested up to 300m",
+                        "Tested up to 30m"
+                    ]
+                },
+                {
+                    "label": "Life Expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years"
                     ]
                 }
             ]
