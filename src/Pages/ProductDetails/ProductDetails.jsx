@@ -90,7 +90,7 @@ function ProductDetails() {
             ${product.priceRange.min} – ${product.priceRange.max}
           </p>
 
-          <label>Movement</label>
+          <label>MOVEMENT</label>
           <select
             value={selectedVariant}
             onChange={e => setSelectedVariant(e.target.value)}

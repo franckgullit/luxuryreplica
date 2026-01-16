@@ -4,7 +4,7 @@ import "./FAQ.scss";
 const faqData = [
   {
     q: "Can you send me more pictures of the desired model?",
-    a: "Yes. Please contact our customer support and provide the model name. We will gladly share additional photos and details."
+    a: "Yes. Please contact our customer support team and provide the model name. We will be pleased to share additional photographs and detailed product information upon request.If you do not find what you are looking for in our gallery, we invite you to contact us directly. You may use the contact form or connect with us via WhatsApp by clicking the CHAT ON WHATSAPP button. Our experienced team will be delighted to assist you in finding the perfect piece tailored to your preferences. "
   },
   {
     q: "My order was rejected. Do I need to place a new order?",

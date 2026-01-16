@@ -3547,5 +3547,1376 @@
                 }
             ]
         }
+    },
+    {
+        "id": "audemars-piguet-royal-oak-26420ce",
+        "slug": "audemars-piguet-royal-oak-26420ce-men",
+        "title": "Audemars Piguet Royal Oak Men’s 42mm 26420CE.OO.A127CR.01",
+        "brand": "Audemars Piguet",
+        "collection": "Royal Oak",
+        "priceRange": {
+            "min": 199,
+            "max": 1599,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1768434133326-2c402f51-a634-4687-a1ff-568d33172995.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1768434133326-2c402f51-a634-4687-a1ff-568d33172995.webp",
+            "https://image2url.com/r2/default/images/1768434177600-43da7086-17d8-40df-bdbc-c951eed1070b.webp",
+            "https://image2url.com/r2/default/images/1768434199243-b62123ae-fb11-4424-915c-a76a1c5c1480.webp",
+            "https://image2url.com/r2/default/images/1768434218716-aaf27d4a-eaf9-4b60-a8c3-4b49ba372359.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 199
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 999
+            },
+            {
+                "id": "clone",
+                "label": "AAAAA Clone",
+                "price": 1599
+            }
+        ],
+        "specifications": {
+            "caseSize": "42mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Black Dial",
+            "movement": "Automatic",
+            "engine": "Clone Audemars Piguet Calibre (by grade)",
+            "waterResistance": "Up to 300 meters (grade dependent)",
+            "gender": "Men",
+            "series": "Royal Oak"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Audemars Piguet Royal Oak 26420CE is a bold 42mm luxury sports watch combining modern materials with the iconic Royal Oak design language."
+            },
+            {
+                "title": "Movement",
+                "content": "Automatic movements across all grades, with higher-tier clones delivering improved stability, smooth operation, and COSC-level accuracy."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Sharp case geometry, signature octagonal bezel, and refined dial finishing closely replicate the authentic Audemars Piguet Royal Oak aesthetic."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Audemars Piguet",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$25,850–335,000",
+                        "$1,599",
+                        "$999",
+                        "$199"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Audemars Piguet",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "42mm",
+                        "42mm",
+                        "42mm",
+                        "42mm"
+                    ]
+                },
+                {
+                    "label": "Logo & Markings",
+                    "values": [
+                        "Laser etchings",
+                        "Exact on entire watch",
+                        "90% Exact on entire watch",
+                        "70% Exact on entire watch"
+                    ]
+                },
+                {
+                    "label": "Dial",
+                    "values": [
+                        "Genuine Audemars Piguet",
+                        "Exact detail and font",
+                        "90% exact detail and font",
+                        "70% Exact detail and font"
+                    ]
+                },
+                {
+                    "label": "Waterproof",
+                    "values": [
+                        "100m",
+                        "Tested up to 300m",
+                        "Tested up to 30m",
+                        "Life waterproof"
+                    ]
+                },
+                {
+                    "label": "Life Expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 years",
+                        "1–2 years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "rolex-sky-dweller-m336934-0003",
+        "slug": "rolex-sky-dweller-m336934-0003-42mm-men",
+        "title": "Rolex Sky-Dweller 42mm Men’s m336934-0003 Automatic",
+        "brand": "Rolex",
+        "collection": "Sky-Dweller",
+        "priceRange": {
+            "min": 219,
+            "max": 3299,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1768434767094-52a5b262-c21d-4679-846e-b32802834345.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1768434767094-52a5b262-c21d-4679-846e-b32802834345.webp",
+            "https://image2url.com/r2/default/images/1768434803554-2ea48260-f1f5-4146-8b31-752932d6b7a1.webp",
+            "https://image2url.com/r2/default/images/1768434821651-a785a8d7-299c-4a9b-abed-b8098c01bd45.webp",
+            "https://image2url.com/r2/default/images/1768434838537-051b0f68-3da3-4161-ad19-4696b37696eb.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 219
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 699
+            },
+            {
+                "id": "clone",
+                "label": "AAAAA Clone",
+                "price": 1299
+            },
+            {
+                "id": "top",
+                "label": "Top 1:1 Clone",
+                "price": 3299
+            }
+        ],
+        "specifications": {
+            "caseSize": "42mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Blue Dial",
+            "movement": "Automatic",
+            "engine": "Clone Rolex Calibre 9001 (by grade)",
+            "waterResistance": "Up to 100 meters (grade dependent)",
+            "gender": "Men",
+            "series": "Sky-Dweller"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Rolex Sky-Dweller m336934-0003 is a sophisticated 42mm luxury timepiece featuring an annual calendar and dual time-zone functionality."
+            },
+            {
+                "title": "Movement",
+                "content": "Powered by automatic movements across all grades, with higher-tier clones utilizing advanced replicas of the Rolex Calibre 9001 for improved precision."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Features a refined dial layout, fixed bezel, and premium finishing that closely mirrors the genuine Rolex Sky-Dweller design."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Rolex",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$10,000",
+                        "$1,299",
+                        "$699",
+                        "$219"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Rolex",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Movement",
+                    "values": [
+                        "Rolex Calibre 9001",
+                        "Genuine Swiss Clone 9001 movement",
+                        "Swiss 2836 Movement",
+                        "Asian Mingzhu Engine"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Bezel",
+                    "values": [
+                        "Fixed",
+                        "Fixed",
+                        "Fixed",
+                        "Fixed"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal (correct date magnification)",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "42mm",
+                        "42mm",
+                        "42mm",
+                        "42mm"
+                    ]
+                },
+                {
+                    "label": "Logo & Markings",
+                    "values": [
+                        "Laser etchings",
+                        "Exact on entire watch",
+                        "90% Exact on entire watch",
+                        "70% Exact on entire watch"
+                    ]
+                },
+                {
+                    "label": "Dial",
+                    "values": [
+                        "Genuine Rolex",
+                        "Exact detail and font",
+                        "90% exact detail and font",
+                        "70% Exact detail and font"
+                    ]
+                },
+                {
+                    "label": "Luminous Markers",
+                    "values": [
+                        "Rolex Lumen",
+                        "SuperLuminova Swiss Lumen",
+                        "Swiss Lumen",
+                        "Normal Lumen"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "patek-philippe-twenty-4-4910-1201r",
+        "slug": "patek-philippe-twenty-4-4910-1201r-women",
+        "title": "Patek Philippe Twenty-4 4910/1201R",
+        "brand": "Patek Philippe",
+        "collection": "Twenty-4",
+        "priceRange": {
+            "min": 199,
+            "max": 1199,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1768435467606-152d20e9-4f88-4935-a366-daf072170324.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1768435467606-152d20e9-4f88-4935-a366-daf072170324.webp",
+            "https://image2url.com/r2/default/images/1768435505593-89763023-441f-4b47-a2ed-afbba4d5b28e.webp",
+            "https://image2url.com/r2/default/images/1768435522509-b81f755b-84d3-4758-a448-36bfb36b0edc.webp",
+            "https://image2url.com/r2/default/images/1768435542763-a3b8bc45-ae61-441f-b9da-c1020c872fc1.webp",
+            "https://image2url.com/r2/default/images/1768435559484-83c32256-8eb1-41df-9475-5c4d2164e0ab.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 199
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 599
+            },
+            {
+                "id": "clone",
+                "label": "AAAAA Clone",
+                "price": 1199
+            }
+        ],
+        "specifications": {
+            "caseSize": "27mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Rose Gold Dial",
+            "movement": "Quartz",
+            "engine": "Swiss / Japanese Quartz (by grade)",
+            "waterResistance": "Up to 300 meters (grade dependent)",
+            "gender": "Women",
+            "series": "Twenty-4"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Patek Philippe Twenty-4 4910/1201R is an elegant ladies’ timepiece designed for timeless sophistication and everyday luxury."
+            },
+            {
+                "title": "Movement",
+                "content": "Powered by high-quality quartz movements depending on grade, offering reliable performance and precision."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Features a refined rectangular case, luxurious rose gold styling, and meticulous detailing inspired by the original Patek Philippe design."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Patek Philippe",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$50,000–$310,000",
+                        "$1,199",
+                        "$599",
+                        "$199"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Patek Philippe",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "27mm",
+                        "27mm",
+                        "27mm",
+                        "27mm"
+                    ]
+                },
+                {
+                    "label": "Logo & Markings",
+                    "values": [
+                        "Laser etchings",
+                        "Exact on entire watch",
+                        "90% Exact on entire watch",
+                        "70% Exact on entire watch"
+                    ]
+                },
+                {
+                    "label": "Dial",
+                    "values": [
+                        "Genuine Patek Philippe",
+                        "Exact detail and font",
+                        "90% exact detail and font",
+                        "70% Exact detail and font"
+                    ]
+                },
+                {
+                    "label": "Luminous Markers",
+                    "values": [
+                        "Patek Philippe Lumen",
+                        "Swiss Lumen",
+                        "Swiss Lumen",
+                        "Normal Lumen"
+                    ]
+                },
+                {
+                    "label": "Waterproof",
+                    "values": [
+                        "100m on standard models",
+                        "Tested up to 300m",
+                        "Tested up to 30m",
+                        "Life waterproof"
+                    ]
+                },
+                {
+                    "label": "Life expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 years",
+                        "1–2 years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "patek-philippe-grand-complications-5270p-001",
+        "slug": "patek-philippe-grand-complications-5270p-001-men",
+        "title": "Patek Philippe Grand Complications 5270P-001",
+        "brand": "Patek Philippe",
+        "collection": "Grand Complications",
+        "priceRange": {
+            "min": 699,
+            "max": 1199,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1768437783281-fc809164-aef2-490d-a572-2dc33b47d458.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1768437783281-fc809164-aef2-490d-a572-2dc33b47d458.webp",
+            "https://image2url.com/r2/default/images/1768437819879-2525dad4-e93e-47b3-909c-2907cf5fd18d.webp",
+            "https://image2url.com/r2/default/images/1768437840557-be53781e-5696-49ee-8816-37870f2a6927.webp",
+            "https://image2url.com/r2/default/images/1768437857602-a479ad43-bba3-408e-b2c2-af6c175359f4.webp"
+        ],
+        "variants": [
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 699
+            },
+            {
+                "id": "clone",
+                "label": "AAAAA Clone",
+                "price": 1199
+            }
+        ],
+        "specifications": {
+            "caseSize": "42mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal",
+            "dialColor": "Rose Gold Dial",
+            "movement": "Automatic",
+            "engine": "Swiss Automatic (by grade)",
+            "waterResistance": "Up to 300 meters (grade dependent)",
+            "gender": "Men",
+            "series": "Grand Complications"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Patek Philippe Grand Complications 5270P-001 is a luxury 42mm men’s timepiece inspired by the original Grand Complications collection."
+            },
+            {
+                "title": "Movement",
+                "content": "Automatic movement based on grade, offering precise and reliable performance."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Crafted with a refined case design, sapphire crystal, and high-detail dial finishing."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Patek Philippe",
+                "AAAAA Clone",
+                "AAA Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$41,000–$1,350,000",
+                        "$1,199",
+                        "$699"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Patek Philippe",
+                        "AAAAA Clone",
+                        "AAA Replica"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "42mm",
+                        "42mm",
+                        "42mm"
+                    ]
+                },
+                {
+                    "label": "Logo & Markings",
+                    "values": [
+                        "Laser etchings",
+                        "Exact on entire watch",
+                        "90% Exact on entire watch"
+                    ]
+                },
+                {
+                    "label": "Dial",
+                    "values": [
+                        "Genuine Patek Philippe",
+                        "Exact detail and font",
+                        "90% exact detail and font"
+                    ]
+                },
+                {
+                    "label": "Waterproof",
+                    "values": [
+                        "100m on standard models",
+                        "Tested up to 300m",
+                        "Tested up to 30m"
+                    ]
+                },
+                {
+                    "label": "Life expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "patek-philippe-grand-complications-6104r-001",
+        "slug": "patek-philippe-grand-complications-6104r-001-men",
+        "title": "Patek Philippe Grand Complications 6104R-001",
+        "brand": "Patek Philippe",
+        "collection": "Grand Complications",
+        "priceRange": {
+            "min": 219,
+            "max": 1199,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1768600710958-533120d8-83bb-4102-a2ea-b19f55881f2f.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1768600710958-533120d8-83bb-4102-a2ea-b19f55881f2f.webp",
+            "https://image2url.com/r2/default/images/1768600629796-e9119537-5658-4426-bfe8-9eeea84e5661.webp",
+            "https://image2url.com/r2/default/images/1768600669538-394de341-9a9a-4ed2-83d6-b4da4e13b8c1.webp",
+            "https://image2url.com/r2/default/images/1768600689165-da87b084-d2b0-4fed-9ff6-6ee85ba499d3.webp",
+            "https://image2url.com/r2/default/images/1768600733103-aa91f24a-f6d9-42ad-a1ef-bbeebad57253.webp",
+            "https://image2url.com/r2/default/images/1768600754891-2f8b9778-a338-4950-bc57-4459bd68e119.webp",
+            "https://image2url.com/r2/default/images/1768600771493-3a74495a-3f48-4859-8d8a-84e3c769df90.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 219
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 699
+            },
+            {
+                "id": "clone",
+                "label": "AAAAA Clone",
+                "price": 1199
+            }
+        ],
+        "specifications": {
+            "caseSize": "42mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Rose Gold Dial",
+            "movement": "Automatic",
+            "engine": "Swiss Automatic (by grade)",
+            "waterResistance": "Up to 300 meters (grade dependent)",
+            "gender": "Men",
+            "series": "Grand Complications"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Patek Philippe Grand Complications 6104R-001 is a bold 42mm men’s timepiece featuring luxurious design inspired by the original celestial Grand Complications model."
+            },
+            {
+                "title": "Movement",
+                "content": "Automatic movement options by grade deliver dependable performance and refined timekeeping precision."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Showcases a detailed dial layout, rose gold–tone case styling, and premium finishing faithful to the authentic Patek Philippe aesthetic."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Patek Philippe",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$41,000–$1,350,000",
+                        "$1,199",
+                        "$699",
+                        "$219"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Patek Philippe",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "42mm",
+                        "42mm",
+                        "42mm",
+                        "42mm"
+                    ]
+                },
+                {
+                    "label": "Logo & Markings",
+                    "values": [
+                        "Laser etchings",
+                        "Exact on entire watch",
+                        "90% Exact on entire watch",
+                        "70% Exact on entire watch"
+                    ]
+                },
+                {
+                    "label": "Dial",
+                    "values": [
+                        "Genuine Patek Philippe",
+                        "Exact detail and font",
+                        "90% exact detail and font",
+                        "70% Exact detail and font"
+                    ]
+                },
+                {
+                    "label": "Waterproof",
+                    "values": [
+                        "100m on standard models",
+                        "Tested up to 300m",
+                        "Tested up to 30m",
+                        "Life waterproof"
+                    ]
+                },
+                {
+                    "label": "Life expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 years",
+                        "1–2 years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "rolex-cosmograph-daytona-126589RBR",
+        "slug": "rolex-cosmograph-daytona-126589RBR-mens-40mm-rubber",
+        "title": "Rolex Cosmograph Daytona 126589RBR Men’s 40mm Rubber Band",
+        "brand": "Rolex",
+        "collection": "Daytona",
+        "priceRange": {
+            "min": 399,
+            "max": 3599,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1768603489865-5bd2f46d-98a6-42ee-b43e-865bba8a7659.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1768603489865-5bd2f46d-98a6-42ee-b43e-865bba8a7659.webp",
+            "https://image2url.com/r2/default/images/1768603522968-25715a0c-786b-4fae-85ec-da8b337c0654.webp",
+            "https://image2url.com/r2/default/images/1768603543953-152e2516-cfd3-43ad-adef-48e7733bcfa7.webp",
+            "https://image2url.com/r2/default/images/1768603562736-35144752-a38d-4d6f-acbe-a3ca90d18a7a.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 399
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 999
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 1599
+            },
+            {
+                "id": "clone-1-1",
+                "label": "1:1 Clone",
+                "price": 2599
+            },
+            {
+                "id": "top-clone",
+                "label": "Top 1:1 Clone",
+                "price": 3599
+            }
+        ],
+        "specifications": {
+            "caseSize": "40mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Gold Dial",
+            "movement": "Automatic",
+            "engine": "Rolex 4130 / Swiss / Asian (by grade)",
+            "waterResistance": "Up to 100 meters (grade dependent)",
+            "strap": "Rubber Band",
+            "gender": "Men",
+            "series": "Daytona"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Rolex Daytona 116598 is an iconic chronograph combining luxury design with high-performance automatic movement and a sporty rubber strap."
+            },
+            {
+                "title": "Movement",
+                "content": "Automatic chronograph movement with multiple engine options depending on grade, inspired by the Rolex Calibre 4130."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Features a bold 40mm case, fixed bezel, premium materials, and precise detailing closely replicating the original Rolex Daytona."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Rolex",
+                "Top 1:1 Clone",
+                "1:1 Clone",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$11,500–$350,000",
+                        "$3,599",
+                        "$2,599",
+                        "$1,599",
+                        "$999",
+                        "$399"
+                    ]
+                },
+                {
+                    "label": "Factory",
+                    "values": [
+                        "/",
+                        "Clean/Noob",
+                        "JF",
+                        "TW",
+                        "BT",
+                        "F"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Rolex",
+                        "Top 1:1 Clone",
+                        "1:1 Clone",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Movement",
+                    "values": [
+                        "Automatic",
+                        "Automatic",
+                        "Automatic",
+                        "Automatic",
+                        "Automatic",
+                        "Automatic"
+                    ]
+                },
+                {
+                    "label": "Engine",
+                    "values": [
+                        "Rolex Calibre 4130",
+                        "Genuine Swiss Clone 4130",
+                        "Clone 1:1 4130",
+                        "Swiss ETA 4130",
+                        "Swiss 7750",
+                        "Asian 2813"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-3/+5 sec per day COSC certified",
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Hairspring Accuracy",
+                    "values": [
+                        "0.3 microns",
+                        "0.4 microns",
+                        "0.5 microns",
+                        "0.8 microns",
+                        "/",
+                        "/"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel",
+                    "values": [
+                        "Stainless Steel",
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Bezel",
+                    "values": [
+                        "Fixed",
+                        "Fixed",
+                        "Fixed",
+                        "Fixed",
+                        "Fixed",
+                        "Fixed"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Scratch-resistant sapphire crystal",
+                        "Scratch-resistant sapphire crystal",
+                        "Scratch-resistant sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "rolex-sky-dweller-326935",
+        "slug": "rolex-sky-dweller-326935-mens-42mm-brown-dial",
+        "title": "Rolex Sky-Dweller 326935 Men’s 42mm Brown Dial",
+        "brand": "Rolex",
+        "collection": "Sky-Dweller",
+        "priceRange": {
+            "min": 219,
+            "max": 3299,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1768604309429-c5a916ab-aecc-4a01-8a85-d9c7b4db7ec3.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1768604309429-c5a916ab-aecc-4a01-8a85-d9c7b4db7ec3.webp",
+            "https://image2url.com/r2/default/images/1768604369237-2d685bbf-1d1f-4f61-b042-74cf4fd04366.webp",
+            "https://image2url.com/r2/default/images/1768604391196-233d9612-f17c-4640-a6f1-1d2372ae6a4f.webp",
+            "https://image2url.com/r2/default/images/1768604411392-00a8a1a6-61c3-4256-ab80-ccb7b7642f88.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 219
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 699
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 1299
+            },
+            {
+                "id": "genuine",
+                "label": "Genuine Rolex",
+                "price": 10000
+            }
+        ],
+        "specifications": {
+            "caseSize": "42mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Brown",
+            "movement": "Automatic",
+            "engine": "Rolex Calibre 9001 / Swiss / Asian (by grade)",
+            "waterResistance": "Up to 100 meters (grade dependent)",
+            "gender": "Men",
+            "series": "Sky-Dweller"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Rolex Sky-Dweller 326935 features a refined 42mm case, elegant brown dial, and advanced annual calendar functionality designed for global travelers."
+            },
+            {
+                "title": "Movement",
+                "content": "Powered by an automatic movement inspired by the Rolex Calibre 9001, offering precision timekeeping across all quality tiers."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Combines luxury finishing, luminous markers, and detailed engravings that closely replicate the original Sky-Dweller aesthetic."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Rolex",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$10,000",
+                        "$1,299",
+                        "$699",
+                        "$219"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Rolex",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Movement",
+                    "values": [
+                        "Rolex Calibre 9001",
+                        "Genuine Swiss Clone 9001",
+                        "Swiss 2836 Movement",
+                        "Asian Mingzhu Engine"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Bezel",
+                    "values": [
+                        "Fixed",
+                        "Fixed",
+                        "Fixed",
+                        "Fixed"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal correct date magnification",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "41mm",
+                        "41mm",
+                        "41mm",
+                        "41mm"
+                    ]
+                },
+                {
+                    "label": "Logo & Markings",
+                    "values": [
+                        "Laser etchings",
+                        "Exact on entire watch",
+                        "90% Exact on entire watch",
+                        "70% Exact on entire watch"
+                    ]
+                },
+                {
+                    "label": "Dial",
+                    "values": [
+                        "Genuine Rolex",
+                        "Exact detail and font",
+                        "90% exact detail and font",
+                        "70% Exact detail and font"
+                    ]
+                },
+                {
+                    "label": "Luminous Markers",
+                    "values": [
+                        "Rolex Lumen",
+                        "SuperLuminova Swiss Lumen",
+                        "Swiss Lumen",
+                        "Normal Lumen"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "patek-nautilus-5711-112p",
+        "slug": "patek-philippe-nautilus-5711-112p-mens-40mm-automatic",
+        "title": "Patek Philippe Nautilus Men’s 40mm 5711/112P Automatic",
+        "brand": "Patek Philippe",
+        "collection": "Nautilus",
+        "priceRange": {
+            "min": 199,
+            "max": 1399,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1768605297425-8542833d-5d00-4f03-9170-e0960876c43d.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1768605297425-8542833d-5d00-4f03-9170-e0960876c43d.webp",
+            "https://image2url.com/r2/default/images/1768606872006-3a1f8946-46ff-4f3d-a692-edde8af1189c.webp",
+            "https://image2url.com/r2/default/images/1768606887300-aa4ad8fd-15ab-4c04-a999-4836991612ee.webp",
+            "https://image2url.com/r2/default/images/1768606903369-eff5087b-0b01-497f-9051-a860dba4cb82.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 199
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 799
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 1399
+            }
+        ],
+        "specifications": {
+            "caseSize": "40mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Blue Nautilus Dial",
+            "movement": "Automatic",
+            "engine": "High-grade automatic movement (by grade)",
+            "waterResistance": "Up to 100 meters (grade dependent)",
+            "gender": "Men",
+            "series": "Nautilus"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Patek Philippe Nautilus 5711/112P is an iconic luxury sports watch, celebrated for its refined design, slim profile, and timeless elegance."
+            },
+            {
+                "title": "Movement",
+                "content": "Powered by automatic movements across all grades, with higher-tier clones offering improved precision, smooth rotor motion, and long-term reliability."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Features the signature Nautilus porthole-shaped case, horizontally embossed dial, and sapphire crystal, delivering an unmistakable luxury presence."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Patek Philippe",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$50,000–3,100,000",
+                        "$1,399",
+                        "$799",
+                        "$199"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Patek Philippe",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Waterproof",
+                    "values": [
+                        "100m",
+                        "Tested up to 300m",
+                        "Tested up to 30m",
+                        "Life waterproof"
+                    ]
+                },
+                {
+                    "label": "Life Expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 years",
+                        "1–2 years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
     }
 ]

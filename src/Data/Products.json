@@ -411,5 +411,142 @@
       "currency": "USD"
     },
     "thumbnail": "https://image2url.com/r2/default/images/1768345946554-c7f79ae1-72e7-4966-930b-f7590e2957ba.webp"
+  },
+  {
+    "id": "audemars-piguet-royal-oak-26420ce",
+    "slug": "audemars-piguet-royal-oak-26420ce-men",
+    "brand": "Audemars Piguet",
+    "collection": "Royal Oak",
+    "gender": "Men",
+    "title": "Audemars Piguet Royal Oak Men’s 42mm 26420CE.OO.A127CR.01",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 1599,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768434133326-2c402f51-a634-4687-a1ff-568d33172995.webp"
+  },
+  {
+    "id": "rolex-sky-dweller-m336934-0003",
+    "slug": "rolex-sky-dweller-m336934-0003-42mm-men",
+    "brand": "Rolex",
+    "collection": "Sky-Dweller",
+    "gender": "Men",
+    "title": "Rolex Sky-Dweller 42mm Men’s m336934-0003 Automatic",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 219,
+      "max": 3299,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768434767094-52a5b262-c21d-4679-846e-b32802834345.webp"
+  },
+  {
+    "id": "patek-philippe-twenty-4-4910-1201r",
+    "slug": "patek-philippe-twenty-4-4910-1201r-women",
+    "brand": "Patek Philippe",
+    "collection": "Twenty-4",
+    "gender": "Women",
+    "title": "Patek Philippe Twenty-4 4910/1201R",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 1199,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768435467606-152d20e9-4f88-4935-a366-daf072170324.webp"
+  },
+  {
+    "id": "patek-philippe-grand-complications-5270p-001",
+    "slug": "patek-philippe-grand-complications-5270p-001-men",
+    "brand": "Patek Philippe",
+    "collection": "Grand Complications",
+    "gender": "Men",
+    "title": "Patek Philippe Grand Complications 5270P-001",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 699,
+      "max": 1199,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768437783281-fc809164-aef2-490d-a572-2dc33b47d458.webp"
+  },
+  {
+    "id": "patek-philippe-grand-complications-6104r-001",
+    "slug": "patek-philippe-grand-complications-6104r-001-men",
+    "brand": "Patek Philippe",
+    "collection": "Grand Complications",
+    "gender": "Men",
+    "title": "Patek Philippe Grand Complications 6104R-001",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 219,
+      "max": 1199,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768600710958-533120d8-83bb-4102-a2ea-b19f55881f2f.webp"
+  },
+  {
+    "id": "rolex-cosmograph-daytona-126589RBR",
+    "slug": "rolex-cosmograph-daytona-126589RBR-mens-40mm-rubber",
+    "brand": "Rolex",
+    "collection": "Daytona",
+    "gender": "Men",
+    "title": "Rolex Cosmograph Daytona 126589RBR Men’s 40mm Rubber Band",
+    "badges": [
+      "Luxury",
+      "Best Seller"
+    ],
+    "priceRange": {
+      "min": 399,
+      "max": 3599,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768603489865-5bd2f46d-98a6-42ee-b43e-865bba8a7659.webp"
+  },
+  {
+    "id": "rolex-sky-dweller-326935",
+    "slug": "rolex-sky-dweller-326935-mens-42mm-brown-dial",
+    "brand": "Rolex",
+    "collection": "Sky-Dweller",
+    "gender": "Men",
+    "title": "Rolex Sky-Dweller 326935 Men’s 42mm Brown Dial",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 219,
+      "max": 3299,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768604309429-c5a916ab-aecc-4a01-8a85-d9c7b4db7ec3.webp"
+  },
+  {
+    "id": "patek-nautilus-5711-112p",
+    "slug": "patek-philippe-nautilus-5711-112p-mens-40mm-automatic",
+    "brand": "Patek Philippe",
+    "collection": "Nautilus",
+    "gender": "Men",
+    "title": "Patek Philippe Nautilus Men’s 40mm 5711/112P Automatic",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 1399,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768605297425-8542833d-5d00-4f03-9170-e0960876c43d.webp"
   }
 ]
