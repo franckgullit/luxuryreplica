@@ -4918,5 +4918,1053 @@
                 }
             ]
         }
+    },
+    {
+        "id": "audemars-piguet-royal-oak-offshore-26236or",
+        "slug": "audemars-piguet-royal-oak-offshore-26236or-37mm-mens-rubber-band",
+        "title": "Audemars Piguet Royal Oak Offshore 26236OR 37mm Men’s Rubber Band",
+        "brand": "Audemars Piguet",
+        "collection": "Royal Oak Offshore",
+        "priceRange": {
+            "min": 219,
+            "max": 1599,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1768686514067-7a7810d2-cfe4-40e9-9906-7ff9963f5ecf.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1768686514067-7a7810d2-cfe4-40e9-9906-7ff9963f5ecf.webp",
+            "https://image2url.com/r2/default/images/1768686476337-de46c6cf-92fe-419d-a218-63ebb11bdc7c.webp",
+            "https://image2url.com/r2/default/images/1768686494582-f5c27e20-5bc9-4ebb-888e-449a7cd62967.webp",
+            "https://image2url.com/r2/default/images/1768686643876-a5bde165-d083-48ab-8a96-4532ca0f5524.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 219
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 999
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 1599
+            }
+        ],
+        "specifications": {
+            "caseSize": "37mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Royal Oak Offshore Dial",
+            "movement": "Quartz / Automatic",
+            "engine": "High-grade movement (by grade)",
+            "waterResistance": "Up to 100 meters (grade dependent)",
+            "gender": "Men",
+            "series": "Royal Oak Offshore"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Audemars Piguet Royal Oak Offshore 26236OR features a bold sporty design with a 37mm case and iconic octagonal bezel."
+            },
+            {
+                "title": "Movement",
+                "content": "Available in quartz and automatic movements depending on grade, offering reliable performance and durability."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Finished with a rubber strap, detailed dial textures, and premium materials that reflect the Royal Oak Offshore identity."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Audemars Piguet",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$23,864–596,591",
+                        "$1,599",
+                        "$999",
+                        "$219"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Audemars Piguet",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "37mm",
+                        "37mm",
+                        "37mm",
+                        "37mm"
+                    ]
+                },
+                {
+                    "label": "Logo & Markings",
+                    "values": [
+                        "Laser etchings",
+                        "Exact on entire watch",
+                        "90% Exact on entire watch",
+                        "70% Exact on entire watch"
+                    ]
+                },
+                {
+                    "label": "Dial",
+                    "values": [
+                        "Genuine Audemars Piguet",
+                        "Exact detail and font",
+                        "90% exact detail and font",
+                        "70% exact detail and font"
+                    ]
+                },
+                {
+                    "label": "Waterproof",
+                    "values": [
+                        "100m on standard models",
+                        "Tested up to 300m",
+                        "Tested up to 30m",
+                        "Life waterproof"
+                    ]
+                },
+                {
+                    "label": "Life Expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 years",
+                        "1–2 years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "rolex-oyster-perpetual-turquoise",
+        "slug": "rolex-oyster-perpetual-unisex-turquoise-blue-dial-silver-tone",
+        "title": "Rolex Oyster Perpetual Unisex Turquoise Blue Dial Silver-tone",
+        "brand": "Rolex",
+        "collection": "Oyster Perpetual",
+        "priceRange": {
+            "min": 199,
+            "max": 3099,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1768687338509-88ca7a40-0bb6-4e6d-83d0-92d4b68f3503.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1768687338509-88ca7a40-0bb6-4e6d-83d0-92d4b68f3503.webp",
+            "https://image2url.com/r2/default/images/1768687374112-1397623b-e04c-4561-88cf-f1c880f4fdeb.webp",
+            "https://image2url.com/r2/default/images/1768687391332-9bff8813-e953-4cda-8dc9-9b7fe83240dd.webp",
+            "https://image2url.com/r2/default/images/1768687409304-c898faae-a096-497c-8839-0229194fe1bd.webp",
+            "https://image2url.com/r2/default/images/1768687426823-3a366123-0991-43aa-b16d-bb0830ada597.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 199
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 599
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 1099
+            },
+            {
+                "id": "clone11",
+                "label": "1:1 Clone",
+                "price": 2099
+            },
+            {
+                "id": "top11",
+                "label": "Top 1:1 Clone",
+                "price": 3099
+            }
+        ],
+        "specifications": {
+            "caseSize": "36mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Uni-directional Rotating",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Turquoise Blue",
+            "movement": "Automatic",
+            "engine": "Swiss / Asian automatic movement (by grade)",
+            "waterResistance": "Up to 100 meters (grade dependent)",
+            "gender": "Unisex",
+            "series": "Oyster Perpetual"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Rolex Oyster Perpetual with turquoise blue dial offers a vibrant, modern look combined with Rolex’s timeless Oyster design."
+            },
+            {
+                "title": "Movement",
+                "content": "All grades feature automatic movements, ranging from Asian calibers to Swiss clone engines with COSC-level accuracy."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Crafted with stainless steel cases, smooth bezels, and a striking turquoise dial that stands out while remaining versatile."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Rolex",
+                "Top 1:1 Clone",
+                "1:1 Clone",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$10,000–25,000",
+                        "$3,099",
+                        "$2,099",
+                        "$1,099",
+                        "$599",
+                        "$199"
+                    ]
+                },
+                {
+                    "label": "Factory",
+                    "values": [
+                        "/",
+                        "Clean",
+                        "JF",
+                        "EW",
+                        "NR",
+                        "SK"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Rolex",
+                        "Top 1:1 Clone",
+                        "1:1 Clone",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Movement",
+                    "values": [
+                        "Automatic",
+                        "Automatic",
+                        "Automatic",
+                        "Automatic",
+                        "Automatic",
+                        "Automatic"
+                    ]
+                },
+                {
+                    "label": "Engine",
+                    "values": [
+                        "Rolex Calibre 3230",
+                        "Genuine Swiss Clone 3230",
+                        "Clone 1:1 3230",
+                        "Swiss ETA 3230",
+                        "Swiss 2836",
+                        "Asian 2813"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-3/+5 sec per day COSC certified",
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Hairspring Accuracy",
+                    "values": [
+                        "0.3 microns",
+                        "0.4 microns",
+                        "0.5 microns",
+                        "0.8 microns",
+                        "/",
+                        "/"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel",
+                    "values": [
+                        "Stainless Steel",
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Bezels",
+                    "values": [
+                        "Uni-directional Rotating",
+                        "Uni-directional Rotating",
+                        "Uni-directional Rotating",
+                        "Uni-directional Rotating",
+                        "Rotated",
+                        "Rotated"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Scratch-resistant sapphire crystal",
+                        "Scratch-resistant sapphire crystal",
+                        "Scratch-resistant sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "patek-philippe-aquanaut-5164g",
+        "slug": "patek-philippe-aquanaut-5164g-mens-40mm-automatic",
+        "title": "Patek Philippe Aquanaut 5164G Men’s 40mm Automatic",
+        "brand": "Patek Philippe",
+        "collection": "Aquanaut",
+        "priceRange": {
+            "min": 199,
+            "max": 1599,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1768688158666-03839afa-100e-4fe3-980f-da669357cbed.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1768688158666-03839afa-100e-4fe3-980f-da669357cbed.webp",
+            "https://image2url.com/r2/default/images/1768688197230-301a5e13-4ce5-4fdb-b442-32f9bf3bd59d.webp",
+            "https://image2url.com/r2/default/images/1768688214303-11abeeaf-4f59-481d-b102-c6f195daab44.webp",
+            "https://image2url.com/r2/default/images/1768688230948-8be714bd-ae74-4d57-acb0-8a8daea3cf77.webp",
+            "https://image2url.com/r2/default/images/1768688248376-c09b8e90-91c7-485a-a548-96b21eaf8bdc.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 199
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 1299
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 1599
+            }
+        ],
+        "specifications": {
+            "caseSize": "40mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Aquanaut Dial",
+            "movement": "Automatic",
+            "engine": "High-grade automatic movement (by grade)",
+            "waterResistance": "Up to 100 meters (grade dependent)",
+            "gender": "Men",
+            "series": "Aquanaut"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Patek Philippe Aquanaut 5164G is a modern luxury sports watch known for its clean design, balanced proportions, and versatile wearability."
+            },
+            {
+                "title": "Movement",
+                "content": "Powered by automatic movements across all grades, delivering reliable performance with increasing precision at higher tiers."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Features the signature Aquanaut case, embossed dial pattern, luminous markers, and sapphire crystal for a refined yet sporty aesthetic."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Patek Philippe",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$48,000–150,000",
+                        "$1,599",
+                        "$1,299",
+                        "$199"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Patek Philippe",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "40mm",
+                        "40mm",
+                        "40mm",
+                        "42mm"
+                    ]
+                },
+                {
+                    "label": "Logo & Markings",
+                    "values": [
+                        "Laser etchings",
+                        "Exact on entire watch",
+                        "90% Exact on entire watch",
+                        "70% Exact on entire watch"
+                    ]
+                },
+                {
+                    "label": "Dial",
+                    "values": [
+                        "Genuine Patek Philippe",
+                        "Exact detail and font",
+                        "90% exact detail and font",
+                        "70% exact detail and font"
+                    ]
+                },
+                {
+                    "label": "Luminous Markers",
+                    "values": [
+                        "Patek Philippe Lumen",
+                        "Super Luminova Swiss Lumen",
+                        "Swiss Lumen",
+                        "Normal Lumen"
+                    ]
+                },
+                {
+                    "label": "Waterproof",
+                    "values": [
+                        "100m on standard models",
+                        "Tested up to 300m",
+                        "Tested up to 30m",
+                        "Life waterproof"
+                    ]
+                },
+                {
+                    "label": "Life Expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 years",
+                        "1–2 years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "patek-philippe-aquanaut-5267-200a",
+        "slug": "patek-philippe-aquanaut-5267-200a-women",
+        "title": "Patek Philippe Aquanaut 5267/200A",
+        "brand": "Patek Philippe",
+        "collection": "Aquanaut",
+        "priceRange": {
+            "min": 199,
+            "max": 1099,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1768688766669-d38b735c-6b75-4d46-a66e-b5ac5ace16f1.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1768688766669-d38b735c-6b75-4d46-a66e-b5ac5ace16f1.webp",
+            "https://image2url.com/r2/default/images/1768688834203-28ee3565-f211-4d49-b4d9-bc8446c69316.webp",
+            "https://image2url.com/r2/default/images/1768688851535-5b019886-73ef-4dac-982b-4b3956d35be8.webp",
+            "https://image2url.com/r2/default/images/1768688868477-f0256987-cdc8-45d4-ac1f-78926faa9637.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 199
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 599
+            },
+            {
+                "id": "clone",
+                "label": "AAAAA Clone",
+                "price": 1099
+            }
+        ],
+        "specifications": {
+            "caseSize": "32mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "White Dial",
+            "movement": "Quartz",
+            "engine": "Swiss / Japanese Quartz (by grade)",
+            "waterResistance": "Up to 300 meters (grade dependent)",
+            "gender": "Women",
+            "series": "Aquanaut"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Patek Philippe Aquanaut 5267/200A is a refined ladies’ quartz timepiece blending sport-luxury design with everyday elegance."
+            },
+            {
+                "title": "Movement",
+                "content": "Powered by high-quality quartz movements by grade, delivering consistent accuracy and low-maintenance performance."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Features a sleek 32mm case, crisp white dial, and modern Aquanaut styling inspired by the original Patek Philippe design."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Patek Philippe",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$48,000–$150,000",
+                        "$1,099",
+                        "$599",
+                        "$199"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Patek Philippe",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "32mm",
+                        "32mm",
+                        "32mm",
+                        "32mm"
+                    ]
+                },
+                {
+                    "label": "Logo & Markings",
+                    "values": [
+                        "Laser etchings",
+                        "Exact on entire watch",
+                        "90% Exact on entire watch",
+                        "70% Exact on entire watch"
+                    ]
+                },
+                {
+                    "label": "Dial",
+                    "values": [
+                        "Genuine Patek Philippe",
+                        "Exact detail and font",
+                        "90% exact detail and font",
+                        "70% Exact detail and font"
+                    ]
+                },
+                {
+                    "label": "Luminous Markers",
+                    "values": [
+                        "Patek Philippe Lumen",
+                        "Super Luminova Swiss Lumen",
+                        "Swiss Lumen",
+                        "Normal Lumen"
+                    ]
+                },
+                {
+                    "label": "Waterproof",
+                    "values": [
+                        "100m on standard models",
+                        "Tested up to 300m",
+                        "Tested up to 30m",
+                        "Life waterproof"
+                    ]
+                },
+                {
+                    "label": "Life expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 years",
+                        "1–2 years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "richard-mille-rm-35-03",
+        "slug": "richard-mille-rafael-nadal-rm-35-03",
+        "title": "Richard Mille Rafael Nadal RM 35-03",
+        "brand": "Richard Mille",
+        "collection": "RM 35",
+        "priceRange": {
+            "min": 799,
+            "max": 1599,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1768690285233-c4f46f63-b26f-47ea-be1e-a9c5da6b9e7a.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1768690285233-c4f46f63-b26f-47ea-be1e-a9c5da6b9e7a.webp",
+            "https://image2url.com/r2/default/images/1768690323969-28a478ba-fb2f-41a9-822e-e9779afec04b.webp",
+            "https://image2url.com/r2/default/images/1768690339032-35a5c103-afc1-49c2-ad1a-6aed0a6699d8.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 799
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 1299
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 1599
+            }
+        ],
+        "specifications": {
+            "caseSize": "43mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dial": "Skeleton Dial",
+            "movement": "Automatic",
+            "waterResistance": "Up to 50 meters (grade dependent)",
+            "gender": "Men",
+            "series": "RM 35"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Richard Mille RM 35-03 Rafael Nadal is an ultra-lightweight, high-performance timepiece designed for extreme durability and precision."
+            },
+            {
+                "title": "Movement",
+                "content": "Automatic movement options across all grades, with higher-tier clones offering superior accuracy and long-term reliability."
+            },
+            {
+                "title": "Design & Performance",
+                "content": "Features a skeletonized dial, shock-resistant construction, and bold racing aesthetics inspired by professional sports performance."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Richard Mille",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$142,955–1,200,000",
+                        "$1,599",
+                        "$1,299",
+                        "$799"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Richard Mille",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Bezel",
+                    "values": [
+                        "Fixed",
+                        "Fixed",
+                        "Fixed",
+                        "Fixed"
+                    ]
+                },
+                {
+                    "label": "Waterproof",
+                    "values": [
+                        "50m",
+                        "Tested up to 300m",
+                        "Tested up to 30m",
+                        "Life waterproof"
+                    ]
+                },
+                {
+                    "label": "Life Expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 years",
+                        "1–2 years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "rolex-sky-dweller-326934",
+        "slug": "rolex-sky-dweller-326934",
+        "title": "Rolex Sky-Dweller 326934",
+        "brand": "Rolex",
+        "collection": "Sky-Dweller",
+        "priceRange": {
+            "min": 219,
+            "max": 1299,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1768691215121-45a813ab-486f-4e83-a6d9-f1194b368132.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1768691215121-45a813ab-486f-4e83-a6d9-f1194b368132.webp",
+            "https://image2url.com/r2/default/images/1768691249410-075a640c-18b6-4543-8890-21b8c4bdff8f.webp",
+            "https://image2url.com/r2/default/images/1768691266872-21e1f5ed-01bd-4654-ba2a-128c9b1b7484.webp",
+            "https://image2url.com/r2/default/images/1768691283596-5dcc14fe-514e-4e26-80f6-131962ce6cdd.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 219
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 699
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 1299
+            }
+        ],
+        "specifications": {
+            "caseSize": "41mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dial": "Sky-Dweller Dial",
+            "movement": "Automatic",
+            "waterResistance": "Grade dependent",
+            "gender": "Men",
+            "series": "Sky-Dweller"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Rolex Sky-Dweller 326934 is a sophisticated annual calendar timepiece designed for world travelers, combining luxury aesthetics with advanced functionality."
+            },
+            {
+                "title": "Movement",
+                "content": "Available across multiple grades, from Asian automatic movements to Swiss clone calibers inspired by the Rolex Calibre 9001."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Features a 41mm case, fixed bezel, premium lume markers, and high-quality finishing that improves significantly with higher grades."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Rolex",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$10,000",
+                        "$1,299",
+                        "$699",
+                        "$219"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Rolex",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Movement",
+                    "values": [
+                        "Rolex Calibre 9001",
+                        "Genuine Swiss Clone 9001 movement",
+                        "Swiss 2836 Movement",
+                        "Asian Mingzhu Engine"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Bezel",
+                    "values": [
+                        "Fixed",
+                        "Fixed",
+                        "Fixed",
+                        "Fixed"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal with correct date magnification",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "41mm",
+                        "41mm",
+                        "41mm",
+                        "41mm"
+                    ]
+                },
+                {
+                    "label": "Logo & Markings",
+                    "values": [
+                        "Laser etchings",
+                        "Exact on entire watch",
+                        "90% exact on entire watch",
+                        "70% exact on entire watch"
+                    ]
+                },
+                {
+                    "label": "Dial",
+                    "values": [
+                        "Genuine Rolex",
+                        "Exact detail and font",
+                        "90% exact detail and font",
+                        "70% exact detail and font"
+                    ]
+                },
+                {
+                    "label": "Luminous Markers",
+                    "values": [
+                        "Rolex Lumen",
+                        "SuperLuminova Swiss Lumen",
+                        "Swiss Lumen",
+                        "Normal Lumen"
+                    ]
+                }
+            ]
+        }
     }
 ]

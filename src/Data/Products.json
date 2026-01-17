@@ -548,5 +548,109 @@
       "currency": "USD"
     },
     "thumbnail": "https://image2url.com/r2/default/images/1768605297425-8542833d-5d00-4f03-9170-e0960876c43d.webp"
+  },
+  {
+    "id": "audemars-piguet-royal-oak-offshore-26236or",
+    "slug": "audemars-piguet-royal-oak-offshore-26236or-37mm-mens-rubber-band",
+    "brand": "Audemars Piguet",
+    "collection": "Royal Oak Offshore",
+    "gender": "Men",
+    "title": "Audemars Piguet Royal Oak Offshore 26236OR 37mm Men’s Rubber Band",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 219,
+      "max": 1599,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768686514067-7a7810d2-cfe4-40e9-9906-7ff9963f5ecf.webp"
+  },
+  {
+    "id": "rolex-oyster-perpetual-turquoise",
+    "slug": "rolex-oyster-perpetual-unisex-turquoise-blue-dial-silver-tone",
+    "brand": "Rolex",
+    "collection": "Oyster Perpetual",
+    "gender": "Unisex",
+    "title": "Rolex Oyster Perpetual Unisex Turquoise Blue Dial Silver-tone",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 3099,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768687338509-88ca7a40-0bb6-4e6d-83d0-92d4b68f3503.webp"
+  },
+  {
+    "id": "patek-philippe-aquanaut-5164g",
+    "slug": "patek-philippe-aquanaut-5164g-mens-40mm-automatic",
+    "brand": "Patek Philippe",
+    "collection": "Aquanaut",
+    "gender": "Men",
+    "title": "Patek Philippe Aquanaut 5164G Men’s 40mm Automatic",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 1599,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768688158666-03839afa-100e-4fe3-980f-da669357cbed.webp"
+  },
+  {
+    "id": "patek-philippe-aquanaut-5267-200a",
+    "slug": "patek-philippe-aquanaut-5267-200a-women",
+    "brand": "Patek Philippe",
+    "collection": "Aquanaut",
+    "gender": "Women",
+    "title": "Patek Philippe Aquanaut 5267/200A",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 1099,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768688766669-d38b735c-6b75-4d46-a66e-b5ac5ace16f1.webp"
+  },
+  {
+    "id": "richard-mille-rm-35-03",
+    "slug": "richard-mille-rafael-nadal-rm-35-03",
+    "brand": "Richard Mille",
+    "collection": "RM 35",
+    "gender": "Men",
+    "title": "Richard Mille Rafael Nadal RM 35-03",
+    "badges": [
+      "Luxury",
+      "Limited"
+    ],
+    "priceRange": {
+      "min": 799,
+      "max": 1599,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768690285233-c4f46f63-b26f-47ea-be1e-a9c5da6b9e7a.webp"
+  },
+  {
+    "id": "rolex-sky-dweller-326934",
+    "slug": "rolex-sky-dweller-326934",
+    "brand": "Rolex",
+    "collection": "Sky-Dweller",
+    "gender": "Men",
+    "title": "Rolex Sky-Dweller 326934",
+    "badges": [
+      "Luxury",
+      "Best Seller"
+    ],
+    "priceRange": {
+      "min": 219,
+      "max": 1299,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768691215121-45a813ab-486f-4e83-a6d9-f1194b368132.webp"
   }
 ]
