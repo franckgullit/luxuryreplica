@@ -636,21 +636,57 @@
     "thumbnail": "https://image2url.com/r2/default/images/1768690285233-c4f46f63-b26f-47ea-be1e-a9c5da6b9e7a.webp"
   },
   {
-    "id": "rolex-sky-dweller-326934",
-    "slug": "rolex-sky-dweller-326934",
-    "brand": "Rolex",
-    "collection": "Sky-Dweller",
+    "id": "patek-philippe-nautilus-5980r-001",
+    "slug": "patek-philippe-nautilus-5980r-001",
+    "brand": "Patek Philippe",
+    "collection": "Nautilus",
     "gender": "Men",
-    "title": "Rolex Sky-Dweller 326934",
+    "title": "Patek Philippe Nautilus Chronograph 5980R-001",
     "badges": [
       "Luxury",
-      "Best Seller"
+      "Iconic"
     ],
     "priceRange": {
       "min": 219,
-      "max": 1299,
+      "max": 899,
       "currency": "USD"
     },
-    "thumbnail": "https://image2url.com/r2/default/images/1768691215121-45a813ab-486f-4e83-a6d9-f1194b368132.webp"
+    "thumbnail": "https://image2url.com/r2/default/images/1768922663865-c0827c72-8826-4543-8251-aa6ac09f8968.webp"
+  },
+  {
+    "id": "rolex-daytona-126518ln",
+    "slug": "rolex-cosmograph-daytona-126518ln",
+    "brand": "Rolex",
+    "collection": "Cosmograph Daytona",
+    "gender": "Men",
+    "title": "Rolex Cosmograph Daytona 126518LN",
+    "badges": [
+      "Luxury",
+      "Chronograph"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 3399,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768923547363-ad7717af-0583-4d42-bd7b-958c90ca4e06.webp"
+  },
+  {
+    "id": "audemars-piguet-royal-oak-77450ba",
+    "slug": "audemars-piguet-royal-oak-77450ba-gg-1361orba-01",
+    "brand": "Audemars Piguet",
+    "collection": "Royal Oak",
+    "gender": "Men",
+    "title": "Audemars Piguet Royal Oak 77450BA.GG.1361ORBA.01",
+    "badges": [
+      "Luxury",
+      "Iconic"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 1499,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1768924317433-6a2a471f-e17f-42a8-abe6-d97a1b91d5d5.webp"
   }
 ]
