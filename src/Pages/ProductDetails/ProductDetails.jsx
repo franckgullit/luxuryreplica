@@ -74,7 +74,7 @@ function ProductDetails() {
               <img
                 key={i}
                 src={img}
-                alt=""
+                alt="product_img"
                 className={img === activeImage ? "active" : ""}
                 onClick={() => setActiveImage(img)}
               />
