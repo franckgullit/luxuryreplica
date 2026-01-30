@@ -688,5 +688,153 @@
       "currency": "USD"
     },
     "thumbnail": "https://image2url.com/r2/default/images/1768924317433-6a2a471f-e17f-42a8-abe6-d97a1b91d5d5.webp"
+  },
+  {
+    "id": "van-cleef-arpels-lady-arpels-heures-florales-vcarpbjl00",
+    "slug": "van-cleef-arpels-lady-arpels-heures-florales-vcarpbjl00",
+    "brand": "Van Cleef & Arpels",
+    "collection": "Lady Arpels",
+    "gender": "Women",
+    "title": "Van Cleef & Arpels Lady Arpels Heures Florales VCARPBJL00",
+    "badges": [
+      "Luxury",
+      "Haute Horology",
+      "Jewelry Watch"
+    ],
+    "priceRange": {
+      "min": 899,
+      "max": 1999,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1769795499010-ad1fd5df-dd51-41c2-a3bf-90a6acfc2121.webp"
+  },
+  {
+    "id": "breguet-reine-de-naples-8918bb-5d-964-do",
+    "slug": "breguet-reine-de-naples-8918bb-5d-964-do",
+    "brand": "Breguet",
+    "collection": "Reine de Naples",
+    "gender": "Women",
+    "title": "Breguet Reine de Naples 8918BB/5D/964 DO",
+    "badges": [
+      "Luxury",
+      "Haute Horology",
+      "Jewelry Watch"
+    ],
+    "priceRange": {
+      "min": 799,
+      "max": 1899,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1769796317348-3c87cbe5-a708-4bb0-bbe5-99d5e44bcf59.webp"
+  },
+  {
+    "id": "fp-journe-automatique",
+    "slug": "fp-journe-automatique-40mm-platinum",
+    "brand": "F.P. Journe",
+    "collection": "Automatique",
+    "gender": "Men",
+    "title": "F.P. Journe Automatique",
+    "badges": [
+      "Luxury",
+      "Haute Horology",
+      "Independent Watchmaker"
+    ],
+    "priceRange": {
+      "min": 999,
+      "max": 2299,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1769797471358-3d8d96bb-34c8-48d9-8cc0-0d915b274897.webp"
+  },
+  {
+    "id": "van-cleef-arpels-lady-feerie-or-rose-vcarpbnj00",
+    "slug": "van-cleef-arpels-lady-feerie-or-rose-vcarpbnj00",
+    "brand": "Van Cleef & Arpels",
+    "collection": "Lady Féerie",
+    "gender": "Women",
+    "title": "Van Cleef & Arpels Lady Féerie Or Rose VCARPBNJ00",
+    "badges": [
+      "Luxury",
+      "Haute Joaillerie",
+      "Jewelry Watch"
+    ],
+    "priceRange": {
+      "min": 899,
+      "max": 2199,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1769799192884-89ea6717-128c-4418-a292-506fab467b93.webp"
+  },
+  {
+    "id": "rolex-land-dweller-127234",
+    "slug": "rolex-land-dweller-127234-36mm-steel",
+    "brand": "Rolex",
+    "collection": "Land-Dweller",
+    "gender": "Men",
+    "title": "Rolex Land-Dweller 127234",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 399,
+      "max": 2999,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1769800004678-399ccb0a-9cb5-4076-ae55-5b7fcdb673dd.webp"
+  },
+  {
+    "id": "vacheron-constantin-overseas-4300v-120r-b547",
+    "slug": "vacheron-constantin-overseas-4300v-120r-b547",
+    "brand": "Vacheron Constantin",
+    "collection": "Overseas",
+    "gender": "Men",
+    "title": "Vacheron Constantin Overseas 4300V/120R-B547",
+    "badges": [
+      "Luxury",
+      "Haute Horology",
+      "Complication"
+    ],
+    "priceRange": {
+      "min": 1299,
+      "max": 3499,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1769800796643-02bedea0-6e70-46ad-8102-371e8b4d4a82.webp"
+  },
+  {
+    "id": "breguet-classique-2025bh-28-9w6",
+    "slug": "breguet-classique-2025bh-28-9w6-40mm-yellow-gold",
+    "brand": "Breguet",
+    "collection": "Classique",
+    "gender": "Men",
+    "title": "Breguet Classique 2025BH/28/9W6",
+    "badges": [
+      "Luxury",
+      "Haute Horology"
+    ],
+    "priceRange": {
+      "min": 899,
+      "max": 2199,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1769801460093-9083d005-2fb1-4386-8788-57b73fc86031.webp"
+  },
+  {
+    "id": "richard-mille-rm-72-01",
+    "slug": "richard-mille-rm-72-01-flyback-chronograph",
+    "brand": "Richard Mille",
+    "collection": "RM 72",
+    "gender": "Men",
+    "title": "Richard Mille RM 72-01 Flyback Chronograph",
+    "badges": [
+      "Luxury",
+      "Sports Chronograph"
+    ],
+    "priceRange": {
+      "min": 999,
+      "max": 2499,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1769802350643-d192b09c-84f2-4e68-92bc-357a0fb4a139.webp"
   }
 ]

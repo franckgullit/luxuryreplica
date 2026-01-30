@@ -6337,5 +6337,1330 @@
                 }
             ]
         }
+    },
+    {
+        "id": "van-cleef-arpels-lady-arpels-heures-florales-vcarpbjl00",
+        "slug": "van-cleef-arpels-lady-arpels-heures-florales-vcarpbjl00",
+        "title": "Van Cleef & Arpels Lady Arpels Heures Florales VCARPBJL00",
+        "brand": "Van Cleef & Arpels",
+        "collection": "Lady Arpels",
+        "priceRange": {
+            "min": 899,
+            "max": 1999,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1769795499010-ad1fd5df-dd51-41c2-a3bf-90a6acfc2121.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1769795499010-ad1fd5df-dd51-41c2-a3bf-90a6acfc2121.webp",
+            "https://image2url.com/r2/default/images/1769795544999-e6906134-1e0b-4f47-a97a-4233d44f460d.webp",
+            "https://image2url.com/r2/default/images/1769795562492-cb3680a6-4c07-4495-bb39-38cf2f82b19f.webp",
+            "https://image2url.com/r2/default/images/1769795582126-e7e9204d-5db7-4260-9605-dfbae1bbe073.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 899
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 1399
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 1999
+            }
+        ],
+        "specifications": {
+            "caseSize": "38mm",
+            "caseMaterial": "White Gold (grade dependent)",
+            "bezel": "Diamond Set",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dial": "Floral Animated Dial",
+            "movement": "Automatic",
+            "caliber": "Valfleurier Caliber (clone by grade)",
+            "powerReserve": "Approximately 36 hours",
+            "waterResistance": "30 meters",
+            "strap": "Alligator Leather Strap",
+            "gemstones": "424 Diamonds (~5.06 carats)",
+            "gender": "Women",
+            "series": "Lady Arpels"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Van Cleef & Arpels Lady Arpels Heures Florales is a poetic timepiece blending haute horology with fine jewelry craftsmanship. Animated floral motifs delicately indicate the passing of time in signature Van Cleef style."
+            },
+            {
+                "title": "Movement",
+                "content": "Powered by an automatic Valfleurier-based movement, offering smooth operation and an approximate 36-hour power reserve across all quality grades."
+            },
+            {
+                "title": "Design & Artistry",
+                "content": "Encased in white gold with 424 diamonds totaling approximately 5.06 carats, this watch features a floral dial animation and an elegant alligator leather strap, crafted for refined feminine elegance."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Van Cleef & Arpels",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$120,000+",
+                        "$1,999",
+                        "$1,399",
+                        "$899"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Van Cleef & Arpels",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Movement",
+                    "values": [
+                        "Valfleurier Automatic",
+                        "Swiss Clone Automatic",
+                        "High-Grade Automatic",
+                        "Asian Automatic"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day",
+                        "-5/+6 sec per day",
+                        "-10/+10 sec per day",
+                        "-1/+2 min per day"
+                    ]
+                },
+                {
+                    "label": "Case Material",
+                    "values": [
+                        "18k White Gold",
+                        "White Gold Coated",
+                        "Stainless Steel Coated",
+                        "Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire Crystal",
+                        "Sapphire Crystal",
+                        "Sapphire Crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Diamonds",
+                    "values": [
+                        "424 Diamonds (5.06ct)",
+                        "Lab Diamonds",
+                        "Lab Diamonds",
+                        "Crystal Stones"
+                    ]
+                },
+                {
+                    "label": "Water Resistance",
+                    "values": [
+                        "30m",
+                        "Tested 50m",
+                        "Tested 30m",
+                        "Life Waterproof"
+                    ]
+                },
+                {
+                    "label": "Life Expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 Years",
+                        "1–2 Years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "breguet-reine-de-naples-8918bb-5d-964-do",
+        "slug": "breguet-reine-de-naples-8918bb-5d-964-do",
+        "title": "Breguet Reine de Naples 8918BB/5D/964 DO",
+        "brand": "Breguet",
+        "collection": "Reine de Naples",
+        "priceRange": {
+            "min": 799,
+            "max": 1899,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1769796317348-3c87cbe5-a708-4bb0-bbe5-99d5e44bcf59.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1769796317348-3c87cbe5-a708-4bb0-bbe5-99d5e44bcf59.webp",
+            "https://image2url.com/r2/default/images/1769796365303-841ebbdf-78cb-4e15-92ee-1c43683d20f4.webp",
+            "https://image2url.com/r2/default/images/1769796398345-41a2382e-8f42-463b-8d74-61a8daa57a60.webp",
+            "https://image2url.com/r2/default/images/1769796426201-f876522d-6757-42fc-87e6-17f42a9b066e.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 799
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 1299
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 1899
+            }
+        ],
+        "specifications": {
+            "caseSize": "28.5mm",
+            "caseMaterial": "White Gold (grade dependent)",
+            "bezel": "Diamond Set",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dial": "Classic Breguet Guilloché Dial",
+            "movement": "Automatic",
+            "caliber": "Caliber 537/1 (clone by grade)",
+            "functions": "Hours and Minutes",
+            "powerReserve": "Up to 45 hours",
+            "waterResistance": "30 meters",
+            "strap": "Alligator Leather Strap",
+            "gemstones": "118 Diamonds (~1.15 carats)",
+            "gender": "Women",
+            "series": "Reine de Naples"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Breguet Reine de Naples 8918BB is an iconic ladies’ timepiece celebrated for its elegant oval case, refined proportions, and exceptional jewelry craftsmanship."
+            },
+            {
+                "title": "Movement",
+                "content": "Driven by an automatic Caliber 537/1–based movement, the watch offers reliable timekeeping with hours and minutes display and up to 45 hours of power reserve depending on grade."
+            },
+            {
+                "title": "Design & Elegance",
+                "content": "Crafted in a white gold case adorned with 118 diamonds totaling approximately 1.15 carats, the Reine de Naples features a luxurious alligator leather strap and timeless Breguet aesthetics."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Breguet",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$30,000+",
+                        "$1,899",
+                        "$1,299",
+                        "$799"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Breguet",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Movement",
+                    "values": [
+                        "Caliber 537/1 Automatic",
+                        "Swiss Clone Automatic",
+                        "High-Grade Automatic",
+                        "Asian Automatic"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day",
+                        "-5/+6 sec per day",
+                        "-10/+10 sec per day",
+                        "-1/+2 min per day"
+                    ]
+                },
+                {
+                    "label": "Case Material",
+                    "values": [
+                        "18k White Gold",
+                        "White Gold Coated",
+                        "Stainless Steel Coated",
+                        "Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire Crystal",
+                        "Sapphire Crystal",
+                        "Sapphire Crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Diamonds",
+                    "values": [
+                        "118 Diamonds (~1.15ct)",
+                        "Lab Diamonds",
+                        "Lab Diamonds",
+                        "Crystal Stones"
+                    ]
+                },
+                {
+                    "label": "Water Resistance",
+                    "values": [
+                        "30m",
+                        "Tested 50m",
+                        "Tested 30m",
+                        "Life Waterproof"
+                    ]
+                },
+                {
+                    "label": "Life Expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 Years",
+                        "1–2 Years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "fp-journe-automatique",
+        "slug": "fp-journe-automatique-40mm-platinum",
+        "title": "F.P. Journe Automatique",
+        "brand": "F.P. Journe",
+        "collection": "Automatique",
+        "priceRange": {
+            "min": 999,
+            "max": 2299,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1769797471358-3d8d96bb-34c8-48d9-8cc0-0d915b274897.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1769797471358-3d8d96bb-34c8-48d9-8cc0-0d915b274897.webp",
+            "https://image2url.com/r2/default/images/1769797566760-02881a9f-f944-4850-9331-a88f90a8902c.webp",
+            "https://image2url.com/r2/default/images/1769797595552-95a12509-2f79-4ae2-a87a-703625af99fc.webp",
+            "https://image2url.com/r2/default/images/1769797620662-8a023bdc-506c-45b5-8f4c-bbc5b1fed643.webp",
+            "https://image2url.com/r2/default/images/1769797644047-5c124c9c-e335-4923-8c92-cb2829efed3c.webp",
+            "https://image2url.com/r2/default/images/1769797666099-83d711aa-0db6-485a-8289-1b7921ee6eb7.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 999
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 1599
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 2299
+            }
+        ],
+        "specifications": {
+            "caseSize": "40mm",
+            "caseMaterial": "Platinum (grade dependent)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dial": "Classic F.P. Journe Asymmetrical Dial",
+            "movement": "Automatic",
+            "caliber": "In-house Caliber 1300.3 (clone by grade)",
+            "functions": "Hours, Minutes, Date, Power Reserve Indicator",
+            "powerReserve": "Up to 160 hours",
+            "waterResistance": "30 meters",
+            "strap": "Alligator Leather Strap",
+            "gender": "Men",
+            "series": "Automatique"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The F.P. Journe Automatique is a masterpiece of independent haute horology, showcasing technical innovation, refined design, and exceptional mechanical performance."
+            },
+            {
+                "title": "Movement",
+                "content": "Powered by the in-house Caliber 1300.3–based automatic movement, the watch features an impressive 160-hour power reserve along with date and power reserve indicators."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Housed in a 40mm platinum case with an elegant asymmetrical dial layout, the Automatique is paired with a luxurious alligator leather strap for timeless sophistication."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine F.P. Journe",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$70,000–300,000+",
+                        "$2,299",
+                        "$1,599",
+                        "$999"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine F.P. Journe",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Movement",
+                    "values": [
+                        "In-house Caliber 1300.3",
+                        "Swiss Clone Automatic",
+                        "High-Grade Automatic",
+                        "Asian Automatic"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day",
+                        "-5/+6 sec per day",
+                        "-10/+10 sec per day",
+                        "-1/+2 min per day"
+                    ]
+                },
+                {
+                    "label": "Case Material",
+                    "values": [
+                        "Platinum",
+                        "Platinum Coated",
+                        "Stainless Steel Coated",
+                        "Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire Crystal",
+                        "Sapphire Crystal",
+                        "Sapphire Crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Power Reserve",
+                    "values": [
+                        "160 Hours",
+                        "160 Hours",
+                        "80–100 Hours",
+                        "40–48 Hours"
+                    ]
+                },
+                {
+                    "label": "Water Resistance",
+                    "values": [
+                        "30m",
+                        "Tested 50m",
+                        "Tested 30m",
+                        "Life Waterproof"
+                    ]
+                },
+                {
+                    "label": "Life Expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 Years",
+                        "1–2 Years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "van-cleef-arpels-lady-feerie-or-rose-vcarpbnj00",
+        "slug": "van-cleef-arpels-lady-feerie-or-rose-vcarpbnj00",
+        "title": "Van Cleef & Arpels Lady Féerie Or Rose VCARPBNJ00",
+        "brand": "Van Cleef & Arpels",
+        "collection": "Lady Féerie",
+        "priceRange": {
+            "min": 899,
+            "max": 2199,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1769799192884-89ea6717-128c-4418-a292-506fab467b93.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1769799192884-89ea6717-128c-4418-a292-506fab467b93.webp",
+            "https://image2url.com/r2/default/images/1769799235944-600e2032-b199-49c0-8f31-9fbf6b4fee00.webp",
+            "https://image2url.com/r2/default/images/1769799257499-486148c0-3d93-4b35-a012-07e8390f0fcf.webp",
+            "https://image2url.com/r2/default/images/1769799276651-32be9945-4c89-42fd-bf15-832174b6fbde.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 899
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 1499
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 2199
+            }
+        ],
+        "specifications": {
+            "caseSize": "33mm",
+            "caseMaterial": "Rose Gold (grade dependent)",
+            "bezel": "Diamond Set",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dial": "Lady Féerie Artistic Dial",
+            "movement": "Automatic",
+            "caliber": "JLC Caliber 846 (clone by grade)",
+            "functions": "Hours and Minutes",
+            "powerReserve": "Approximately 30 hours",
+            "waterResistance": "30 meters",
+            "strap": "Alligator Leather Strap",
+            "gemstones": "364 Diamonds (approx. 4.73 carats)",
+            "gender": "Women",
+            "series": "Lady Féerie"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Van Cleef & Arpels Lady Féerie Or Rose is an exquisite haute joaillerie timepiece that blends fine watchmaking with artistic fantasy and jewelry craftsmanship."
+            },
+            {
+                "title": "Movement",
+                "content": "Powered by an automatic movement based on the JLC Caliber 846, the watch offers smooth timekeeping with a power reserve of approximately 30 hours, depending on grade."
+            },
+            {
+                "title": "Design & Artistry",
+                "content": "Featuring a rose gold case adorned with 364 diamonds totaling approximately 4.73 carats, the Lady Féerie showcases Van Cleef & Arpels’ iconic fairy motif and refined elegance."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Van Cleef & Arpels",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$120,000+",
+                        "$2,199",
+                        "$1,499",
+                        "$899"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Van Cleef & Arpels",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Movement",
+                    "values": [
+                        "JLC Caliber 846 Automatic",
+                        "Swiss Clone Automatic",
+                        "High-Grade Automatic",
+                        "Asian Automatic"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day",
+                        "-5/+6 sec per day",
+                        "-10/+10 sec per day",
+                        "-1/+2 min per day"
+                    ]
+                },
+                {
+                    "label": "Case Material",
+                    "values": [
+                        "18k Rose Gold",
+                        "Rose Gold Coated",
+                        "Stainless Steel Coated",
+                        "Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire Crystal",
+                        "Sapphire Crystal",
+                        "Sapphire Crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Diamonds",
+                    "values": [
+                        "364 Diamonds (4.73ct)",
+                        "Lab Diamonds",
+                        "Lab Diamonds",
+                        "Crystal Stones"
+                    ]
+                },
+                {
+                    "label": "Water Resistance",
+                    "values": [
+                        "30m",
+                        "Tested 50m",
+                        "Tested 30m",
+                        "Life Waterproof"
+                    ]
+                },
+                {
+                    "label": "Life Expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 Years",
+                        "1–2 Years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "rolex-land-dweller-127234",
+        "slug": "rolex-land-dweller-127234-36mm-steel",
+        "title": "Rolex Land-Dweller 127234",
+        "brand": "Rolex",
+        "collection": "Land-Dweller",
+        "priceRange": {
+            "min": 399,
+            "max": 2999,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1769800004678-399ccb0a-9cb5-4076-ae55-5b7fcdb673dd.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1769800004678-399ccb0a-9cb5-4076-ae55-5b7fcdb673dd.webp",
+            "https://image2url.com/r2/default/images/1769800042198-9087ae74-21e6-48d9-b305-3089de87c50b.webp",
+            "https://image2url.com/r2/default/images/1769800068080-442a34b1-06b6-490e-9302-1dd6e8117b15.webp",
+            "https://image2url.com/r2/default/images/1769800099591-1419d489-9eaa-4735-a7d7-60ce721b12fc.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 399
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 999
+            },
+            {
+                "id": "clone",
+                "label": "AAAAA Clone",
+                "price": 1999
+            },
+            {
+                "id": "top",
+                "label": "Top 1:1 Clone",
+                "price": 2999
+            }
+        ],
+        "specifications": {
+            "caseSize": "36mm",
+            "caseMaterial": "904L / 316L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Classic Rolex Dial",
+            "movement": "Automatic",
+            "engine": "Rolex Caliber 7135 (clone by grade)",
+            "functions": "Hours, Minutes, Date",
+            "powerReserve": "Approximately 66 hours",
+            "waterResistance": "Up to 100 meters (grade dependent)",
+            "bracelet": "Stainless Steel Oyster Bracelet",
+            "gender": "Men",
+            "series": "Land-Dweller"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Rolex Land-Dweller 127234 is a refined everyday luxury watch designed for versatility, combining Rolex precision with a sleek and timeless stainless steel profile."
+            },
+            {
+                "title": "Movement",
+                "content": "Powered by an automatic movement based on the Rolex Caliber 7135, this model offers hours, minutes, and date functionality with an impressive power reserve of approximately 66 hours."
+            },
+            {
+                "title": "Design & Durability",
+                "content": "Featuring a 36mm stainless steel case and matching bracelet, sapphire crystal, and robust water resistance, the Land-Dweller delivers classic Rolex aesthetics with modern reliability."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Rolex",
+                "Top 1:1 Clone",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$9,000–18,000",
+                        "$2,999",
+                        "$1,999",
+                        "$999",
+                        "$399"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Rolex",
+                        "Top 1:1 Clone",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Movement",
+                    "values": [
+                        "Rolex Caliber 7135",
+                        "Clone Rolex 7135",
+                        "Super Clone Automatic",
+                        "ETA-based Automatic",
+                        "Asian Automatic"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-2/+2 sec per day COSC",
+                        "-3/+5 sec per day COSC",
+                        "-5/+6 sec per day COSC",
+                        "-10/+10 sec per day",
+                        "-1/+2 min per day"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire Crystal",
+                        "Sapphire Crystal",
+                        "Sapphire Crystal",
+                        "Sapphire Crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Water Resistance",
+                    "values": [
+                        "100m",
+                        "Tested up to 300m",
+                        "Tested up to 300m",
+                        "Tested up to 50m",
+                        "Life Waterproof"
+                    ]
+                },
+                {
+                    "label": "Power Reserve",
+                    "values": [
+                        "66 Hours",
+                        "66 Hours",
+                        "60–66 Hours",
+                        "40–48 Hours",
+                        "36–40 Hours"
+                    ]
+                },
+                {
+                    "label": "Life Expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 Years",
+                        "1–2 Years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "5 Years",
+                        "Up to 5 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "vacheron-constantin-overseas-4300v-120r-b547",
+        "slug": "vacheron-constantin-overseas-4300v-120r-b547",
+        "title": "Vacheron Constantin Overseas 4300V/120R-B547",
+        "brand": "Vacheron Constantin",
+        "collection": "Overseas",
+        "priceRange": {
+            "min": 1299,
+            "max": 3499,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1769800796643-02bedea0-6e70-46ad-8102-371e8b4d4a82.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1769800796643-02bedea0-6e70-46ad-8102-371e8b4d4a82.webp",
+            "https://image2url.com/r2/default/images/1769800875143-78e2111b-e6c2-46b4-8108-1fced01ce9f6.webp",
+            "https://image2url.com/r2/default/images/1769800912818-a998b004-eb06-4cd9-a68c-8b2907cf6002.webp",
+            "https://image2url.com/r2/default/images/1769800933971-363b7ee5-d47c-407e-a38a-62c462867a09.webp",
+            "https://image2url.com/r2/default/images/1769800950770-684cef10-6957-4aeb-9264-d354cff0c757.webp",
+            "https://image2url.com/r2/default/images/1769800965879-3b30698d-9277-49fe-b45b-3e1403b9c04e.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 1299
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 2199
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 3499
+            }
+        ],
+        "specifications": {
+            "caseSize": "41.5mm",
+            "caseThickness": "8.1mm",
+            "caseMaterial": "Rose Gold (grade dependent)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dial": "Skeletonized Perpetual Calendar Dial",
+            "movement": "Automatic",
+            "caliber": "Caliber 1120 QPSQ (clone by grade)",
+            "functions": "Hours, Minutes, Perpetual Calendar, Moon Phases",
+            "powerReserve": "Approximately 40 hours",
+            "waterResistance": "50 meters",
+            "bracelet": "Rose Gold Bracelet",
+            "gender": "Men",
+            "series": "Overseas"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Vacheron Constantin Overseas 4300V/120R-B547 is an extraordinary haute horology timepiece combining ultra-thin engineering with complex astronomical complications."
+            },
+            {
+                "title": "Movement",
+                "content": "Powered by an automatic movement based on the legendary Caliber 1120 QPSQ, the watch features a perpetual calendar, moon phase display, and a power reserve of approximately 40 hours."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Crafted in rose gold with a fully skeletonized movement, the 41.5mm Overseas case highlights exceptional finishing, slim proportions, and a seamless integrated bracelet."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Vacheron Constantin",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$150,000+",
+                        "$3,499",
+                        "$2,199",
+                        "$1,299"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Vacheron Constantin",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Movement",
+                    "values": [
+                        "Caliber 1120 QPSQ",
+                        "Swiss Clone Automatic",
+                        "High-Grade Automatic",
+                        "Asian Automatic"
+                    ]
+                },
+                {
+                    "label": "Complications",
+                    "values": [
+                        "Perpetual Calendar, Moon Phases",
+                        "Perpetual Calendar, Moon Phases",
+                        "Perpetual Calendar",
+                        "Date Only"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day",
+                        "-5/+6 sec per day",
+                        "-10/+10 sec per day",
+                        "-1/+2 min per day"
+                    ]
+                },
+                {
+                    "label": "Case Material",
+                    "values": [
+                        "18k Rose Gold",
+                        "Rose Gold Coated",
+                        "Stainless Steel Coated",
+                        "Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire Crystal",
+                        "Sapphire Crystal",
+                        "Sapphire Crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Water Resistance",
+                    "values": [
+                        "50m",
+                        "Tested 100m",
+                        "Tested 50m",
+                        "Life Waterproof"
+                    ]
+                },
+                {
+                    "label": "Life Expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 Years",
+                        "1–2 Years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "breguet-classique-2025bh-28-9w6",
+        "slug": "breguet-classique-2025bh-28-9w6-40mm-yellow-gold",
+        "title": "Breguet Classique 2025BH/28/9W6",
+        "brand": "Breguet",
+        "collection": "Classique",
+        "priceRange": {
+            "min": 899,
+            "max": 2199,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1769801460093-9083d005-2fb1-4386-8788-57b73fc86031.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1769801460093-9083d005-2fb1-4386-8788-57b73fc86031.webp",
+            "https://image2url.com/r2/default/images/1769801509277-3a33c6f1-c3e4-4e30-ae46-c2f2ac78f104.webp",
+            "https://image2url.com/r2/default/images/1769801587474-a5b45e17-5dbd-4c12-ac6a-c322787a6074.webp",
+            "https://image2url.com/r2/default/images/1769801634446-f7ec85c9-9d84-4d72-b83f-1f450dd7d380.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 899
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 1499
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 2199
+            }
+        ],
+        "specifications": {
+            "caseSize": "40mm",
+            "caseMaterial": "Yellow Gold (grade dependent)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dial": "Classic Breguet Guilloché Dial",
+            "movement": "Manual Winding",
+            "caliber": "Caliber VS00 (clone by grade)",
+            "functions": "Hours and Minutes",
+            "powerReserve": "Up to 96 hours",
+            "waterResistance": "30 meters",
+            "strap": "Alligator Leather Strap",
+            "gender": "Men",
+            "series": "Classique"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Breguet Classique 2025BH/28/9W6 is a refined expression of traditional watchmaking, showcasing timeless elegance and pure mechanical craftsmanship."
+            },
+            {
+                "title": "Movement",
+                "content": "Equipped with a manual-winding movement based on Caliber VS00, the watch delivers exceptional autonomy with a power reserve of up to 96 hours."
+            },
+            {
+                "title": "Design & Heritage",
+                "content": "Housed in a 40mm yellow gold case with a hand-finished guilloché dial, the Classique collection embodies Abraham-Louis Breguet’s enduring legacy of precision and style."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Breguet",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$35,000+",
+                        "$2,199",
+                        "$1,499",
+                        "$899"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Breguet",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Movement",
+                    "values": [
+                        "Manual Caliber VS00",
+                        "Swiss Clone Manual",
+                        "High-Grade Manual",
+                        "Asian Manual"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day",
+                        "-5/+6 sec per day",
+                        "-10/+10 sec per day",
+                        "-1/+2 min per day"
+                    ]
+                },
+                {
+                    "label": "Case Material",
+                    "values": [
+                        "18k Yellow Gold",
+                        "Yellow Gold Coated",
+                        "Stainless Steel Coated",
+                        "Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire Crystal",
+                        "Sapphire Crystal",
+                        "Sapphire Crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Power Reserve",
+                    "values": [
+                        "96 Hours",
+                        "96 Hours",
+                        "60–72 Hours",
+                        "40–48 Hours"
+                    ]
+                },
+                {
+                    "label": "Water Resistance",
+                    "values": [
+                        "30m",
+                        "Tested 50m",
+                        "Tested 30m",
+                        "Life Waterproof"
+                    ]
+                },
+                {
+                    "label": "Life Expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 Years",
+                        "1–2 Years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "richard-mille-rm-72-01",
+        "slug": "richard-mille-rm-72-01-flyback-chronograph",
+        "title": "Richard Mille RM 72-01 Flyback Chronograph",
+        "brand": "Richard Mille",
+        "collection": "RM 72",
+        "priceRange": {
+            "min": 999,
+            "max": 2499,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1769802350643-d192b09c-84f2-4e68-92bc-357a0fb4a139.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1769802350643-d192b09c-84f2-4e68-92bc-357a0fb4a139.webp",
+            "https://image2url.com/r2/default/images/1769802386453-a48cf634-cf07-47da-a168-b04581a6ea1b.webp",
+            "https://image2url.com/r2/default/images/1769802406040-9bfa663b-1a0a-4642-a3b2-9b2a86cfb7f9.webp",
+            "https://image2url.com/r2/default/images/1769802428040-7afb0ac3-f42c-49b7-9f4a-792d8320873d.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 999
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 1699
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 2499
+            }
+        ],
+        "specifications": {
+            "caseSize": "29.10 × 31.25mm",
+            "caseMaterial": "White Ceramic",
+            "baseplate": "Titanium",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dial": "Skeleton Chronograph Dial",
+            "movement": "Automatic",
+            "caliber": "CRMC1 (clone by grade)",
+            "functions": "Hours, Minutes, Date, Flyback Chronograph",
+            "powerReserve": "Approximately 50 hours",
+            "waterResistance": "30 meters",
+            "gender": "Men",
+            "series": "RM 72"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Richard Mille RM 72-01 Flyback Chronograph is a cutting-edge sports watch engineered for extreme performance, combining avant-garde materials with advanced chronograph functionality."
+            },
+            {
+                "title": "Movement & Chronograph",
+                "content": "Powered by the CRMC1 automatic flyback chronograph movement, the RM 72-01 offers precise timekeeping, instant reset chronograph capability, and a power reserve of approximately 50 hours."
+            },
+            {
+                "title": "Design & Engineering",
+                "content": "Featuring a white ceramic case and titanium baseplate, the RM 72-01 delivers exceptional shock resistance, lightweight comfort, and a bold skeletonized aesthetic synonymous with Richard Mille."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Richard Mille",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$280,000+",
+                        "$2,499",
+                        "$1,699",
+                        "$999"
+                    ]
+                },
+                {
+                    "label": "Movement",
+                    "values": [
+                        "In-house CRMC1 Flyback",
+                        "Swiss Clone Flyback",
+                        "High-Grade Automatic",
+                        "Asian Automatic"
+                    ]
+                },
+                {
+                    "label": "Chronograph",
+                    "values": [
+                        "Flyback Chronograph",
+                        "Flyback Chronograph",
+                        "Standard Chronograph",
+                        "Standard Chronograph"
+                    ]
+                },
+                {
+                    "label": "Case Material",
+                    "values": [
+                        "White Ceramic",
+                        "White Ceramic",
+                        "Ceramic Coated",
+                        "Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Power Reserve",
+                    "values": [
+                        "50 Hours",
+                        "50 Hours",
+                        "42–48 Hours",
+                        "36–40 Hours"
+                    ]
+                },
+                {
+                    "label": "Water Resistance",
+                    "values": [
+                        "30m",
+                        "Tested 50m",
+                        "Tested 30m",
+                        "Life Waterproof"
+                    ]
+                },
+                {
+                    "label": "Life Expectancy",
+                    "values": [
+                        "Lifetime",
+                        "Lifetime",
+                        "3–5 Years",
+                        "1–2 Years"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
     }
 ]
