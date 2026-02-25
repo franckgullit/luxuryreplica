@@ -836,5 +836,90 @@
       "currency": "USD"
     },
     "thumbnail": "https://image2url.com/r2/default/images/1769802350643-d192b09c-84f2-4e68-92bc-357a0fb4a139.webp"
+  },
+  {
+    "id": "rolex-daytona-126599tsa",
+    "slug": "rolex-daytona-126599tsa-40mm-automatic",
+    "brand": "Rolex",
+    "collection": "Daytona",
+    "gender": "Men",
+    "title": "Rolex Daytona 126599TSA 40mm Automatic",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 1599,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1772027734548-8953e4c8-9f89-431e-95d9-506367d57449.webp"
+  },
+  {
+    "id": "patek-philippe-5924g-010",
+    "slug": "patek-philippe-5924g-010-42mm-automatic",
+    "brand": "Patek Philippe",
+    "collection": "Complications",
+    "gender": "Men",
+    "title": "Patek Philippe 5924G-010 42mm Automatic",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 1599,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1772028235628-46701ca1-b9b9-41f1-8199-6639dd7147ba.webp"
+  },
+  {
+    "id": "richard-mille-rm-27-01",
+    "slug": "richard-mille-rm-27-01-manual-winding-tourbillon",
+    "brand": "Richard Mille",
+    "collection": "RM Collection",
+    "gender": "Men",
+    "title": "Richard Mille RM 27-01 Manual Winding Tourbillon",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 1599,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1772028970688-82cf19f4-faf6-4af2-98a2-f67056ee3559.webp"
+  },
+  {
+    "id": "audemars-piguet-royal-oak-26240bc-00-1320bc-04",
+    "slug": "audemars-piguet-royal-oak-26240bc-00-1320bc-04-41mm-automatic",
+    "brand": "Audemars Piguet",
+    "collection": "Royal Oak",
+    "gender": "Men",
+    "title": "Audemars Piguet Royal Oak 26240BC.00.1320BC.04 41mm Automatic",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 1599,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1772029536044-400fdeb0-fcb2-418f-8141-648faa938037.webp"
+  },
+  {
+    "id": "rolex-daytona-116508",
+    "slug": "rolex-daytona-116508-40mm-automatic",
+    "brand": "Rolex",
+    "collection": "Daytona",
+    "gender": "Men",
+    "title": "Rolex Daytona 116508 40mm Automatic",
+    "badges": [
+      "Luxury"
+    ],
+    "priceRange": {
+      "min": 199,
+      "max": 1599,
+      "currency": "USD"
+    },
+    "thumbnail": "https://image2url.com/r2/default/images/1772029976158-91a2b97e-6ff0-49d5-a7e6-e8f9d01a858d.webp"
   }
 ]

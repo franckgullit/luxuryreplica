@@ -7662,5 +7662,815 @@
                 }
             ]
         }
+    },
+    {
+        "id": "rolex-daytona-126599tsa",
+        "slug": "rolex-daytona-126599tsa-40mm-automatic",
+        "title": "Rolex Daytona 126599TSA 40mm Automatic",
+        "brand": "Rolex",
+        "collection": "Daytona",
+        "priceRange": {
+            "min": 199,
+            "max": 1599,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1772027734548-8953e4c8-9f89-431e-95d9-506367d57449.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1772027734548-8953e4c8-9f89-431e-95d9-506367d57449.webp",
+            "https://image2url.com/r2/default/images/1772027772288-d6983eba-b7de-4624-a250-de0c706519f4.webp",
+            "https://image2url.com/r2/default/images/1772027790523-b43d1f04-7f0f-4b18-80e8-9125cd190e51.webp",
+            "https://image2url.com/r2/default/images/1772027809073-a754e03f-2bbb-4443-8db7-c1ec23c0490e.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 199
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 999
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 1599
+            }
+        ],
+        "specifications": {
+            "caseSize": "40mm",
+            "caseMaterial": "White Gold / 904L Stainless Steel (by grade)",
+            "bezel": "Fixed Diamond-Set Bezel",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Blue Sapphire & Diamond Dial",
+            "movement": "Automatic",
+            "engine": "Caliber 4131 Clone / High-grade automatic movement (by grade)",
+            "waterResistance": "Up to 100 meters (grade dependent)",
+            "gender": "Men",
+            "series": "Daytona"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Rolex Daytona 126599TSA is a luxurious chronograph crafted in white gold, adorned with 36 blue sapphires and 54 diamonds for a striking presence."
+            },
+            {
+                "title": "Movement",
+                "content": "Powered by an automatic movement based on Caliber 4131, featuring chronograph functionality and a power reserve of approximately 72 hours."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Features a 40mm white gold case and bracelet, diamond-set bezel, sapphire crystal, and refined finishing that reflects the prestige of the Daytona collection."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Rolex",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$120,000–250,000",
+                        "$1,599",
+                        "$999",
+                        "$199"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Rolex",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Stainless Steel Type",
+                    "values": [
+                        "White Gold",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "40mm",
+                        "40mm",
+                        "40mm",
+                        "40mm"
+                    ]
+                },
+                {
+                    "label": "Chronograph",
+                    "values": [
+                        "Full chronograph functionality",
+                        "Fully functional chronograph",
+                        "Functional chronograph",
+                        "Basic chronograph"
+                    ]
+                },
+                {
+                    "label": "Waterproof",
+                    "values": [
+                        "100m",
+                        "Tested up to 100m",
+                        "Tested up to 30m",
+                        "Life waterproof"
+                    ]
+                },
+                {
+                    "label": "Power Reserve",
+                    "values": [
+                        "Approximately 72 hours",
+                        "Approximately 60–72 hours",
+                        "Approximately 48–60 hours",
+                        "Approximately 24–36 hours"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "patek-philippe-5924g-010",
+        "slug": "patek-philippe-5924g-010-42mm-automatic",
+        "title": "Patek Philippe 5924G-010 42mm Automatic",
+        "brand": "Patek Philippe",
+        "collection": "Complications",
+        "priceRange": {
+            "min": 199,
+            "max": 1599,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1772028235628-46701ca1-b9b9-41f1-8199-6639dd7147ba.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1772028235628-46701ca1-b9b9-41f1-8199-6639dd7147ba.webp",
+            "https://image2url.com/r2/default/images/1772028281834-e7f59738-3778-46d4-967c-ef86f8b30d63.webp",
+            "https://image2url.com/r2/default/images/1772028300324-55f192cf-9a45-46b8-9330-da559531637f.webp",
+            "https://image2url.com/r2/default/images/1772028317936-a0aabc02-3b4a-4970-bdae-973beab3f4c9.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 199
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 999
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 1599
+            }
+        ],
+        "specifications": {
+            "caseSize": "42mm",
+            "caseMaterial": "White Gold / 904L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Classic Patek Philippe Dial",
+            "movement": "Automatic",
+            "engine": "Caliber CH 28-520 C FUS Clone / High-grade automatic movement (by grade)",
+            "waterResistance": "Up to 30 meters (grade dependent)",
+            "gender": "Men",
+            "series": "Complications"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Patek Philippe 5924G-010 is an elegant timepiece crafted in white gold, combining refined aesthetics with advanced mechanical performance."
+            },
+            {
+                "title": "Movement",
+                "content": "Powered by an automatic movement inspired by Caliber CH 28-520 C FUS, delivering a power reserve of up to 55 hours and reliable precision."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Features a 42mm white gold case paired with a premium calfskin strap, sapphire crystal, and meticulous finishing that reflects Patek Philippe’s heritage."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Patek Philippe",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$45,000–120,000",
+                        "$1,599",
+                        "$999",
+                        "$199"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Patek Philippe",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Case Material",
+                    "values": [
+                        "White Gold",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "42mm",
+                        "42mm",
+                        "42mm",
+                        "42mm"
+                    ]
+                },
+                {
+                    "label": "Power Reserve",
+                    "values": [
+                        "Up to 55 hours",
+                        "Approximately 48–55 hours",
+                        "Approximately 36–48 hours",
+                        "Approximately 24–36 hours"
+                    ]
+                },
+                {
+                    "label": "Waterproof",
+                    "values": [
+                        "30m",
+                        "Tested up to 50m",
+                        "Tested up to 30m",
+                        "Life waterproof"
+                    ]
+                },
+                {
+                    "label": "Strap",
+                    "values": [
+                        "Calfskin Strap",
+                        "Premium Leather Strap",
+                        "Leather Strap",
+                        "Standard Leather Strap"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "richard-mille-rm-27-01",
+        "slug": "richard-mille-rm-27-01-manual-winding-tourbillon",
+        "title": "Richard Mille RM 27-01 Manual Winding Tourbillon",
+        "brand": "Richard Mille",
+        "collection": "RM Collection",
+        "priceRange": {
+            "min": 199,
+            "max": 1599,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1772028970688-82cf19f4-faf6-4af2-98a2-f67056ee3559.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1772028970688-82cf19f4-faf6-4af2-98a2-f67056ee3559.webp",
+            "https://image2url.com/r2/default/images/1772029009192-9be8cca3-8d20-4065-a2cd-3f9815d85db0.webp",
+            "https://image2url.com/r2/default/images/1772029026582-b599a47c-83d6-496d-a0f8-08baffcbfa88.webp",
+            "https://image2url.com/r2/default/images/1772029045081-b76cb169-4ce5-4edb-9906-bdf0d454fb0b.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 199
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 999
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 1599
+            }
+        ],
+        "specifications": {
+            "caseSize": "45.98x38.9mm",
+            "caseMaterial": "Carbon / High-tech composite (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Skeleton Dial",
+            "movement": "Manual Winding",
+            "engine": "Caliber RM27-01 Tourbillon Clone / High-grade manual movement (by grade)",
+            "waterResistance": "Up to 30 meters (grade dependent)",
+            "gender": "Men",
+            "series": "RM 27-01"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Richard Mille RM 27-01 is an ultra-lightweight high-performance timepiece featuring a distinctive tonneau-shaped carbon case and avant-garde engineering."
+            },
+            {
+                "title": "Movement",
+                "content": "Powered by a manual-winding movement based on Caliber RM27-01, equipped with a tourbillon and offering a power reserve of up to 45 hours."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Constructed with a carbon case measuring 45.98x38.9mm, skeletonized architecture, and advanced shock-resistant design reflecting Richard Mille’s technical innovation."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Richard Mille",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$750,000–1,500,000",
+                        "$1,599",
+                        "$999",
+                        "$199"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Richard Mille",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day",
+                        "-5/+6 sec per day",
+                        "-10/+10 sec per day",
+                        "-1/+2 min per day"
+                    ]
+                },
+                {
+                    "label": "Case Material",
+                    "values": [
+                        "Carbon Composite",
+                        "High-grade Carbon Composite",
+                        "Carbon Fiber",
+                        "Composite Material"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "45.98x38.9mm",
+                        "45.98x38.9mm",
+                        "45.98x38.9mm",
+                        "45.98x38.9mm"
+                    ]
+                },
+                {
+                    "label": "Tourbillon",
+                    "values": [
+                        "Genuine Tourbillon",
+                        "Fully functional tourbillon",
+                        "Decorative tourbillon",
+                        "Tourbillon-style design"
+                    ]
+                },
+                {
+                    "label": "Power Reserve",
+                    "values": [
+                        "Up to 45 hours",
+                        "Approximately 40–45 hours",
+                        "Approximately 36–40 hours",
+                        "Approximately 24–36 hours"
+                    ]
+                },
+                {
+                    "label": "Waterproof",
+                    "values": [
+                        "30m",
+                        "Tested up to 30m",
+                        "Tested up to 30m",
+                        "Life waterproof"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "audemars-piguet-royal-oak-26240bc-00-1320bc-04",
+        "slug": "audemars-piguet-royal-oak-26240bc-00-1320bc-04-41mm-automatic",
+        "title": "Audemars Piguet Royal Oak 26240BC.00.1320BC.04 41mm Automatic",
+        "brand": "Audemars Piguet",
+        "collection": "Royal Oak",
+        "priceRange": {
+            "min": 199,
+            "max": 1599,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1772029536044-400fdeb0-fcb2-418f-8141-648faa938037.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1772029536044-400fdeb0-fcb2-418f-8141-648faa938037.webp",
+            "https://image2url.com/r2/default/images/1772029509648-ad2f54fd-5b59-474d-ab99-6ddc25aa12cd.webp",
+            "https://image2url.com/r2/default/images/1772029589079-c70e2e08-f843-41a2-8868-e17ade588eab.webp",
+            "https://image2url.com/r2/default/images/1772029610965-27006145-a650-44bb-aabc-403ab9fd38f8.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 199
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 999
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 1599
+            }
+        ],
+        "specifications": {
+            "caseSize": "41mm",
+            "caseMaterial": "White Gold / 904L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Royal Oak Chronograph Dial",
+            "movement": "Automatic",
+            "engine": "Caliber 4401 Clone / High-grade automatic movement (by grade)",
+            "waterResistance": "Up to 50 meters (grade dependent)",
+            "gender": "Men",
+            "series": "Royal Oak"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Audemars Piguet Royal Oak 26240BC.00.1320BC.04 is a refined chronograph crafted in white gold, combining iconic Royal Oak design with modern mechanical excellence."
+            },
+            {
+                "title": "Movement",
+                "content": "Powered by an automatic movement based on Caliber 4401, featuring flyback chronograph functionality and an impressive 70-hour power reserve."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Features a 41mm white gold case and integrated bracelet, octagonal bezel, sapphire crystal, and detailed finishing that define the Royal Oak identity."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Audemars Piguet",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$65,000–120,000",
+                        "$1,599",
+                        "$999",
+                        "$199"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Audemars Piguet",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day",
+                        "-5/+6 sec per day",
+                        "-10/+10 sec per day",
+                        "-1/+2 min per day"
+                    ]
+                },
+                {
+                    "label": "Case Material",
+                    "values": [
+                        "White Gold",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "41mm",
+                        "41mm",
+                        "41mm",
+                        "41mm"
+                    ]
+                },
+                {
+                    "label": "Chronograph",
+                    "values": [
+                        "Flyback chronograph",
+                        "Fully functional flyback chronograph",
+                        "Functional chronograph",
+                        "Basic chronograph"
+                    ]
+                },
+                {
+                    "label": "Power Reserve",
+                    "values": [
+                        "70 hours",
+                        "Approximately 60–70 hours",
+                        "Approximately 48–60 hours",
+                        "Approximately 24–36 hours"
+                    ]
+                },
+                {
+                    "label": "Waterproof",
+                    "values": [
+                        "50m",
+                        "Tested up to 50m",
+                        "Tested up to 30m",
+                        "Life waterproof"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "rolex-daytona-116508",
+        "slug": "rolex-daytona-116508-40mm-automatic",
+        "title": "Rolex Daytona 116508 40mm Automatic",
+        "brand": "Rolex",
+        "collection": "Daytona",
+        "priceRange": {
+            "min": 199,
+            "max": 1599,
+            "currency": "USD"
+        },
+        "thumbnail": "https://image2url.com/r2/default/images/1772029976158-91a2b97e-6ff0-49d5-a7e6-e8f9d01a858d.webp",
+        "images": [
+            "https://image2url.com/r2/default/images/1772029976158-91a2b97e-6ff0-49d5-a7e6-e8f9d01a858d.webp",
+            "https://image2url.com/r2/default/images/1772030037185-0e0c693b-b287-4325-855f-a9ed3b142993.webp",
+            "https://image2url.com/r2/default/images/1772030053982-f2dd26b2-8901-471a-b05c-a30e0bc9cc47.webp",
+            "https://image2url.com/r2/default/images/1772030071813-7dca396d-7db9-4856-9417-45d843a547ee.webp"
+        ],
+        "variants": [
+            {
+                "id": "a",
+                "label": "A Replica",
+                "price": 199
+            },
+            {
+                "id": "aaa",
+                "label": "AAA Replica",
+                "price": 999
+            },
+            {
+                "id": "aaaaa",
+                "label": "AAAAA Clone",
+                "price": 1599
+            }
+        ],
+        "specifications": {
+            "caseSize": "40mm",
+            "caseMaterial": "Yellow Gold / 904L Stainless Steel (by grade)",
+            "bezel": "Fixed",
+            "crystal": "Sapphire Crystal / Mineral Glass (by grade)",
+            "dialColor": "Daytona Dial",
+            "movement": "Automatic",
+            "engine": "Caliber 4130 Clone / High-grade automatic movement (by grade)",
+            "waterResistance": "Up to 100 meters (grade dependent)",
+            "gender": "Men",
+            "series": "Daytona"
+        },
+        "description": [
+            {
+                "title": "Overview",
+                "content": "The Rolex Daytona 116508 is a bold chronograph crafted in yellow gold, combining luxury aesthetics with high-performance engineering."
+            },
+            {
+                "title": "Movement",
+                "content": "Powered by an automatic movement based on Caliber 4130, featuring full chronograph functionality and a power reserve of approximately 72 hours."
+            },
+            {
+                "title": "Design & Craftsmanship",
+                "content": "Features a 40mm yellow gold case and matching bracelet, sapphire crystal, and the iconic Daytona layout known for precision and style."
+            }
+        ],
+        "comparison": {
+            "columns": [
+                "Genuine Rolex",
+                "AAAAA Clone",
+                "AAA Replica",
+                "A Replica"
+            ],
+            "rows": [
+                {
+                    "label": "Price",
+                    "values": [
+                        "$35,000–80,000",
+                        "$1,599",
+                        "$999",
+                        "$199"
+                    ]
+                },
+                {
+                    "label": "Grade",
+                    "values": [
+                        "Genuine Rolex",
+                        "AAAAA Clone",
+                        "AAA Replica",
+                        "A Replica"
+                    ]
+                },
+                {
+                    "label": "Time Accuracy",
+                    "values": [
+                        "-3/+5 sec per day COSC certified",
+                        "-5/+6 sec per day COSC certified",
+                        "-10/+10 sec per day COSC certified",
+                        "-1/+2 min per day COSC certified"
+                    ]
+                },
+                {
+                    "label": "Case Material",
+                    "values": [
+                        "Yellow Gold",
+                        "904L Stainless Steel",
+                        "316L Stainless Steel",
+                        "316L Stainless Steel"
+                    ]
+                },
+                {
+                    "label": "Crystal",
+                    "values": [
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Sapphire crystal",
+                        "Mineral Glass"
+                    ]
+                },
+                {
+                    "label": "Case Size",
+                    "values": [
+                        "40mm",
+                        "40mm",
+                        "40mm",
+                        "40mm"
+                    ]
+                },
+                {
+                    "label": "Chronograph",
+                    "values": [
+                        "Full chronograph functionality",
+                        "Fully functional chronograph",
+                        "Functional chronograph",
+                        "Basic chronograph"
+                    ]
+                },
+                {
+                    "label": "Power Reserve",
+                    "values": [
+                        "Approximately 72 hours",
+                        "Approximately 60–72 hours",
+                        "Approximately 48–60 hours",
+                        "Approximately 24–36 hours"
+                    ]
+                },
+                {
+                    "label": "Waterproof",
+                    "values": [
+                        "100m",
+                        "Tested up to 100m",
+                        "Tested up to 30m",
+                        "Life waterproof"
+                    ]
+                },
+                {
+                    "label": "Warranty",
+                    "values": [
+                        "2 Years",
+                        "Up to 5 Years",
+                        "Up to 3 Years",
+                        "Up to 1 Year"
+                    ]
+                }
+            ]
+        }
     }
 ]
