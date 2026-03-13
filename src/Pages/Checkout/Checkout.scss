@@ -1,0 +1,174 @@
+.checkout-page {
+    padding: 60px 20px;
+    background: #f5f5f5;
+    min-height: 100vh;
+}
+
+.checkout-container {
+    max-width: 1200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 400px;
+    gap: 40px;
+}
+
+.checkout-left {
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+
+    h1 {
+        margin-bottom: 30px;
+    }
+
+    h2 {
+        margin-bottom: 20px;
+    }
+}
+
+.payment-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.payment-option {
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+    border: 1px solid #ddd;
+    padding: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+
+    input {
+        margin-top: 5px;
+    }
+
+    &:hover {
+        border-color: #000;
+    }
+
+    &.active {
+        border-color: #000;
+        background: #fafafa;
+    }
+
+    h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 5px 0 0;
+        font-size: 14px;
+        color: #666;
+    }
+}
+
+.pay-btn {
+    margin-top: 30px;
+    width: 100%;
+    padding: 16px;
+    border: none;
+    background: black;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.bank-details {
+    margin-top: 30px;
+
+    p {
+        margin-bottom: 15px;
+        color: #555;
+    }
+}
+
+.contact-buttons {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+
+.whatsapp-btn {
+    background: #25d366;
+    border: none;
+    color: white;
+    padding: 14px 20px;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 600;
+    flex: 1;
+    min-width: 180px;
+    transition: 0.3s;
+
+    &:hover {
+        background: #1ebe5d;
+    }
+}
+
+.email-btn {
+    background: #0072c6;
+    border: none;
+    color: white;
+    padding: 14px 20px;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 600;
+    flex: 1;
+    min-width: 180px;
+    transition: 0.3s;
+
+    &:hover {
+        background: #005fa3;
+    }
+}
+
+
+.checkout-right {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    height: fit-content;
+}
+
+.summary-item {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    margin-bottom: 20px;
+
+    img {
+        width: 60px;
+        height: 60px;
+        object-fit: cover;
+        border-radius: 6px;
+    }
+
+    p {
+        margin: 0;
+        font-weight: 500;
+    }
+
+    span {
+        font-size: 14px;
+        color: #666;
+    }
+}
+
+.total {
+    margin-top: 25px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    font-weight: 600;
+}

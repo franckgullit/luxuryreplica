@@ -11,6 +11,8 @@ import Privacy from './Pages/Privacy/Privacy.jsx';
 import Shop from './Pages/Shop/Shop.jsx';
 import ProductDetails from './Pages/ProductDetails/ProductDetails.jsx';
 import Cart from "./Pages/Cart/Cart.jsx";
+import Checkout from './Pages/Checkout/Checkout.jsx';
+
 
 function App() {
   return (
@@ -23,6 +25,7 @@ function App() {
           <Route path='/Shop' element={<Shop />} />
           <Route path="/product/:slug" element={<ProductDetails />} />
           <Route path="/cart" element={<Cart />} />
+          <Route path="/Checkout" element={<Checkout />} />
           <Route path='/FAQ' element={<FAQ />} />
           <Route path='/Privacy' element={<Privacy />} />
           <Route path='/Contact' element={<Contact />} />

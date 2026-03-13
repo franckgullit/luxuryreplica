@@ -1,101 +1,131 @@
-import { useState, useEffect } from "react";
+import { useEffect, useState } from "react";
+import { useNavigate } from "react-router-dom";
 import "./Cart.scss";
 
 function Cart() {
-    const [cart, setCart] = useState([]);
-    const [loading, setLoading] = useState(false);
+    const [cartItems, setCartItems] = useState([]);
+    const navigate = useNavigate();
 
     useEffect(() => {
-        const stored = JSON.parse(localStorage.getItem("cart")) || [];
-        setCart(stored);
+        const storedCart = JSON.parse(localStorage.getItem("cart")) || [];
+        setCartItems(storedCart);
+
+        const handleCartUpdate = () => {
+            const updatedCart = JSON.parse(localStorage.getItem("cart")) || [];
+            setCartItems(updatedCart);
+        };
+
+        window.addEventListener("cartUpdated", handleCartUpdate);
+
+        return () =>
+            window.removeEventListener("cartUpdated", handleCartUpdate);
     }, []);
 
-    const removeItem = (index) => {
-        const updated = cart.filter((_, i) => i !== index);
-        setCart(updated);
-        localStorage.setItem("cart", JSON.stringify(updated));
+    const handleRemove = (watchId) => {
+        const updatedCart = cartItems.filter(
+            (item) => item.watchId !== watchId
+        );
+
+        localStorage.setItem("cart", JSON.stringify(updatedCart));
+        setCartItems(updatedCart);
         window.dispatchEvent(new Event("cartUpdated"));
     };
 
-    const total = cart.reduce(
-        (sum, item) => sum + item.price * item.quantity,
-        0
-    );
+    const handleQuantityChange = (watchId, amount) => {
+        const updatedCart = cartItems.map((item) =>
+            item.watchId === watchId
+                ? { ...item, quantity: Math.max(1, item.quantity + amount) }
+                : item
+        );
 
-    const handleCheckout = async () => {
-        setLoading(true);
-
-        try {
-            const response = await fetch("https://luxuryreplica.onrender.com/create-invoice", {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({
-                    amount: total,
-                    description: "Watch order"
-                })
-            });
-
-            const data = await response.json();
-
-            if (data.invoice_url) {
-                window.open(data.invoice_url, "_blank");
-            } else {
-                alert("Unable to create payment invoice.");
-            }
-        } catch {
-            alert("Payment error. Please try again.");
-        } finally {
-            setLoading(false);
-        }
+        localStorage.setItem("cart", JSON.stringify(updatedCart));
+        setCartItems(updatedCart);
+        window.dispatchEvent(new Event("cartUpdated"));
     };
 
-    if (!cart.length) {
-        return (
-            <section className="cart cart--empty">
-                <h1>Your Cart</h1>
-                <p>Your cart is empty.</p>
-            </section>
-        );
-    }
+    const totalPrice = cartItems.reduce((total, item) => {
+        const price =
+            typeof item.price === "string"
+                ? parseFloat(item.price.replace(/[^0-9.-]+/g, ""))
+                : Number(item.price);
+
+        return total + price * item.quantity;
+    }, 0);
 
     return (
-        <section className="cart">
-            <h1>Your Cart</h1>
+        <div className="cart">
+            <div className="cart__container">
 
-            {cart.map((item, i) => (
-                <div className="cart-item" key={i}>
-                    <img src={item.image} alt={item.title} />
+                <h1>Your Cart</h1>
 
-                    <div className="cart-item__info">
-                        <h3>{item.title}</h3>
-                        <p>{item.variantLabel}</p>
-                        <p>Qty: {item.quantity}</p>
-                        <p className="cart-item__price">
-                            ${item.price * item.quantity}
-                        </p>
-                    </div>
+                {cartItems.length === 0 ? (
+                    <p className="empty">Your cart is empty.</p>
+                ) : (
+                    <>
+                        <div className="cart__items">
 
-                    <button
-                        className="cart-item__remove"
-                        onClick={() => removeItem(i)}
-                    >
-                        Remove
-                    </button>
-                </div>
-            ))}
+                            {cartItems.map((item) => (
+                                <div key={item.watchId} className="cart__item">
 
-            <div className="cart-summary">
-                <h2>Total: ${total}</h2>
+                                    <img src={item.image} alt={item.title} />
 
-                <button
-                    className="cart-checkout"
-                    onClick={handleCheckout}
-                    disabled={loading}
-                >
-                    {loading ? "Processing..." : "Pay with Crypto"}
-                </button>
+                                    <div className="cart__details">
+
+                                        <h3>{item.title}</h3>
+                                        <p>{item.price}</p>
+
+                                        <div className="quantity">
+
+                                            <button
+                                                onClick={() =>
+                                                    handleQuantityChange(item.watchId, -1)
+                                                }
+                                            >
+                                                -
+                                            </button>
+
+                                            <span>{item.quantity}</span>
+
+                                            <button
+                                                onClick={() =>
+                                                    handleQuantityChange(item.watchId, 1)
+                                                }
+                                            >
+                                                +
+                                            </button>
+
+                                        </div>
+
+                                        <button
+                                            className="remove"
+                                            onClick={() => handleRemove(item.watchId)}
+                                        >
+                                            Remove
+                                        </button>
+
+                                    </div>
+
+                                </div>
+                            ))}
+
+                        </div>
+
+                        <div className="cart__summary">
+                            <h2>Total: ${totalPrice.toLocaleString()}</h2>
+
+                            <button
+                                className="checkout"
+                                onClick={() => navigate("/checkout")}
+                            >
+                                Proceed to Checkout
+                            </button>
+
+                        </div>
+                    </>
+                )}
+
             </div>
-        </section>
+        </div>
     );
 }
 
