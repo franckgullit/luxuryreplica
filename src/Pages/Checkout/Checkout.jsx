@@ -70,6 +70,19 @@ function Checkout() {
                             </div>
                         </label>
 
+                        <label className={`payment-option ${paymentMethod === "crypto" ? "active" : ""}`}>
+                            <input
+                                type="radio"
+                                name="payment"
+                                checked={paymentMethod === "crypto"}
+                                onChange={() => setPaymentMethod("crypto")}
+                            />
+                            <div>
+                                <h3>Pay With Crypto</h3>
+                                <p>Checkout quickly using your PayPal account.</p>
+                            </div>
+                        </label>
+
                     </div>
 
                     {paymentMethod === "paypal" && (
@@ -88,12 +101,11 @@ function Checkout() {
 
                                     <button
                                         className="email-btn"
-                                        onClick={() => window.location = `mailto:sales@watchexpressions.com?subject=Bank Transfer Order&body=Hello,%0A%0AI want to complete my order via bank transfer.%0A%0AItems: ${cartItems.map(item => `${item.quantity}x ${item.title}`).join(", ")}%0ATotal: $${totalPrice.toLocaleString()}%0A%0AThank you.`}
+                                        onClick={() => window.location = `mailto:sales@watchexpressions.com?subject=Bank Transfer Order&body=Hello,%0A%0AI want to complete my order via PayPal.%0A%0AItems: ${cartItems.map(item => `${item.quantity}x ${item.title}`).join(", ")}%0ATotal: $${totalPrice.toLocaleString()}%0A%0AThank you.`}
                                     >
                                         Contact us via Email
                                     </button>
                                 </div>
-
                             </div></>
 
                     )}
@@ -120,6 +132,29 @@ function Checkout() {
                                 </button>
                             </div>
 
+                        </div>
+                    )}
+
+                    {paymentMethod === "crypto" && (
+                        <div className="bank-details">
+                            <h3>Pay With Crypto</h3>
+
+                            <p>
+                                Prefer to pay with cryptocurrency? Contact us to complete your payment securely using one of our supported crypto options.
+                            </p>
+
+                            <div className="contact-buttons">
+                                <button className="whatsapp-btn" onClick={handleWhatsApp}>
+                                    Contact us on WhatsApp
+                                </button>
+
+                                <button
+                                    className="email-btn"
+                                    onClick={() => window.location = `mailto:sales@watchexpressions.com?subject=Bank Transfer Order&body=Hello,%0A%0AI want to complete my order via Cryptocurrency.%0A%0AItems: ${cartItems.map(item => `${item.quantity}x ${item.title}`).join(", ")}%0ATotal: $${totalPrice.toLocaleString()}%0A%0AThank you.`}
+                                >
+                                    Contact us via Email
+                                </button>
+                            </div>
                         </div>
                     )}
                 </div>
